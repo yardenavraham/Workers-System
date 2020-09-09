@@ -1,0 +1,31 @@
+﻿<UserControl x:Class="PLWPF.NannyUserControl"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:PLWPF"
+             xmlns:BE="clr-namespace:BE;assembly=BE"
+             mc:Ignorable="d" 
+             d:DesignHeight="300" d:DesignWidth="300" Background="#FFBD6EAE">
+
+    <Grid d:DataContext="{d:DesignInstance BE:Nanny }" Background="#FFBD6EAE">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="5*"/>
+            <ColumnDefinition Width="7*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+        </Grid.RowDefinitions>
+        <Image x:Name="nannyImage" Width="100" Height="100"
+               Stretch="Fill" Source="/PLWPF;component/images/nanny.jpg"/>
+        <TextBlock Margin="5,5,5,71" Grid.Column="1"
+                 Text="{Binding Path=firstName}" FontFamily="Segoe Print"/>
+        <TextBlock Margin="5,35,5,32" Grid.Column="1"
+                 Text="{Binding Path=lastName}" FontFamily="Segoe Print"/>
+        <TextBlock Margin="5" Grid.Column="1" Grid.Row="1"
+                 Text="{Binding Path=id}"/>
+        <Button Content="more details" HorizontalAlignment="Left" Margin="22,4,0,0" Grid.Row="1" VerticalAlignment="Top" Width="83" Click="Button_Click" Height="35" FontFamily="Segoe Print" />
+    </Grid>
+</UserControl>
+

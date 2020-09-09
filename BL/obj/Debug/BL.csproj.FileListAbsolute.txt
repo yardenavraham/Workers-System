@@ -1,0 +1,221 @@
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\פרויקט\dotNet5778_Project01_8527_1882\dotNet5778_Project01_8527_1882\dotNet5778_Project01_8527_1882\BL\bin\Debug\BL.dll
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\פרויקט\dotNet5778_Project01_8527_1882\dotNet5778_Project01_8527_1882\dotNet5778_Project01_8527_1882\BL\bin\Debug\BL.pdb
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\פרויקט\dotNet5778_Project01_8527_1882\dotNet5778_Project01_8527_1882\dotNet5778_Project01_8527_1882\BL\bin\Debug\BE.dll
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\פרויקט\dotNet5778_Project01_8527_1882\dotNet5778_Project01_8527_1882\dotNet5778_Project01_8527_1882\BL\bin\Debug\DAL.dll
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\פרויקט\dotNet5778_Project01_8527_1882\dotNet5778_Project01_8527_1882\dotNet5778_Project01_8527_1882\BL\bin\Debug\DS.dll
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\פרויקט\dotNet5778_Project01_8527_1882\dotNet5778_Project01_8527_1882\dotNet5778_Project01_8527_1882\BL\bin\Debug\BE.pdb
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\פרויקט\dotNet5778_Project01_8527_1882\dotNet5778_Project01_8527_1882\dotNet5778_Project01_8527_1882\BL\bin\Debug\DAL.pdb
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\פרויקט\dotNet5778_Project01_8527_1882\dotNet5778_Project01_8527_1882\dotNet5778_Project01_8527_1882\BL\bin\Debug\DS.pdb
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\פרויקט\dotNet5778_Project01_8527_1882\dotNet5778_Project01_8527_1882\dotNet5778_Project01_8527_1882\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\פרויקט\dotNet5778_Project01_8527_1882\dotNet5778_Project01_8527_1882\dotNet5778_Project01_8527_1882\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\פרויקט\dotNet5778_Project01_8527_1882\dotNet5778_Project01_8527_1882\dotNet5778_Project01_8527_1882\BL\obj\Debug\BL.dll
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\פרויקט\dotNet5778_Project01_8527_1882\dotNet5778_Project01_8527_1882\dotNet5778_Project01_8527_1882\BL\obj\Debug\BL.pdb
+Z:\מיני פרויקט\dotNet5778_Project01_8527_1882\BL\bin\Debug\BL.dll
+Z:\מיני פרויקט\dotNet5778_Project01_8527_1882\BL\bin\Debug\BL.pdb
+Z:\מיני פרויקט\dotNet5778_Project01_8527_1882\BL\bin\Debug\BE.dll
+Z:\מיני פרויקט\dotNet5778_Project01_8527_1882\BL\bin\Debug\DAL.dll
+Z:\מיני פרויקט\dotNet5778_Project01_8527_1882\BL\bin\Debug\DS.dll
+Z:\מיני פרויקט\dotNet5778_Project01_8527_1882\BL\bin\Debug\BE.pdb
+Z:\מיני פרויקט\dotNet5778_Project01_8527_1882\BL\bin\Debug\DAL.pdb
+Z:\מיני פרויקט\dotNet5778_Project01_8527_1882\BL\bin\Debug\DS.pdb
+Z:\מיני פרויקט\dotNet5778_Project01_8527_1882\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+Z:\מיני פרויקט\dotNet5778_Project01_8527_1882\BL\obj\Debug\BL.dll
+Z:\מיני פרויקט\dotNet5778_Project01_8527_1882\BL\obj\Debug\BL.pdb
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\פרויקט\חלק ב\dotNet5778_Project01_8527_1882\BL\bin\Debug\BL.dll
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\פרויקט\חלק ב\dotNet5778_Project01_8527_1882\BL\bin\Debug\BL.pdb
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\פרויקט\חלק ב\dotNet5778_Project01_8527_1882\BL\bin\Debug\BE.dll
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\פרויקט\חלק ב\dotNet5778_Project01_8527_1882\BL\bin\Debug\DAL.dll
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\פרויקט\חלק ב\dotNet5778_Project01_8527_1882\BL\bin\Debug\DS.dll
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\פרויקט\חלק ב\dotNet5778_Project01_8527_1882\BL\bin\Debug\BE.pdb
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\פרויקט\חלק ב\dotNet5778_Project01_8527_1882\BL\bin\Debug\DAL.pdb
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\פרויקט\חלק ב\dotNet5778_Project01_8527_1882\BL\bin\Debug\DS.pdb
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\פרויקט\חלק ב\dotNet5778_Project01_8527_1882\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\פרויקט\חלק ב\dotNet5778_Project01_8527_1882\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\פרויקט\חלק ב\dotNet5778_Project01_8527_1882\BL\obj\Debug\BL.dll
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\פרויקט\חלק ב\dotNet5778_Project01_8527_1882\BL\obj\Debug\BL.pdb
+Z:\מיני פרויקט\חלק ב\dotNet5778_Project01_8527_1882\BL\bin\Debug\BL.dll
+Z:\מיני פרויקט\חלק ב\dotNet5778_Project01_8527_1882\BL\bin\Debug\BL.pdb
+Z:\מיני פרויקט\חלק ב\dotNet5778_Project01_8527_1882\BL\bin\Debug\BE.dll
+Z:\מיני פרויקט\חלק ב\dotNet5778_Project01_8527_1882\BL\bin\Debug\DAL.dll
+Z:\מיני פרויקט\חלק ב\dotNet5778_Project01_8527_1882\BL\bin\Debug\DS.dll
+Z:\מיני פרויקט\חלק ב\dotNet5778_Project01_8527_1882\BL\bin\Debug\BE.pdb
+Z:\מיני פרויקט\חלק ב\dotNet5778_Project01_8527_1882\BL\bin\Debug\DAL.pdb
+Z:\מיני פרויקט\חלק ב\dotNet5778_Project01_8527_1882\BL\bin\Debug\DS.pdb
+Z:\מיני פרויקט\חלק ב\dotNet5778_Project01_8527_1882\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+Z:\מיני פרויקט\חלק ב\dotNet5778_Project01_8527_1882\BL\obj\Debug\BL.dll
+Z:\מיני פרויקט\חלק ב\dotNet5778_Project01_8527_1882\BL\obj\Debug\BL.pdb
+C:\Users\tashnerb\Desktop\dotNet5778_Project01_8527_1882\BL\bin\Debug\BL.dll
+C:\Users\tashnerb\Desktop\dotNet5778_Project01_8527_1882\BL\bin\Debug\BL.pdb
+C:\Users\tashnerb\Desktop\dotNet5778_Project01_8527_1882\BL\bin\Debug\BE.dll
+C:\Users\tashnerb\Desktop\dotNet5778_Project01_8527_1882\BL\bin\Debug\DAL.dll
+C:\Users\tashnerb\Desktop\dotNet5778_Project01_8527_1882\BL\bin\Debug\DS.dll
+C:\Users\tashnerb\Desktop\dotNet5778_Project01_8527_1882\BL\bin\Debug\BE.pdb
+C:\Users\tashnerb\Desktop\dotNet5778_Project01_8527_1882\BL\bin\Debug\DAL.pdb
+C:\Users\tashnerb\Desktop\dotNet5778_Project01_8527_1882\BL\bin\Debug\DS.pdb
+C:\Users\tashnerb\Desktop\dotNet5778_Project01_8527_1882\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+C:\Users\tashnerb\Desktop\dotNet5778_Project01_8527_1882\BL\obj\Debug\BL.dll
+C:\Users\tashnerb\Desktop\dotNet5778_Project01_8527_1882\BL\obj\Debug\BL.pdb
+C:\Users\tashnerb\Downloads\dotNet5778_Project01_8527_1882\BL\bin\Debug\BL.dll
+C:\Users\tashnerb\Downloads\dotNet5778_Project01_8527_1882\BL\bin\Debug\BL.pdb
+C:\Users\tashnerb\Downloads\dotNet5778_Project01_8527_1882\BL\bin\Debug\BE.dll
+C:\Users\tashnerb\Downloads\dotNet5778_Project01_8527_1882\BL\bin\Debug\DAL.dll
+C:\Users\tashnerb\Downloads\dotNet5778_Project01_8527_1882\BL\bin\Debug\DS.dll
+C:\Users\tashnerb\Downloads\dotNet5778_Project01_8527_1882\BL\bin\Debug\BE.pdb
+C:\Users\tashnerb\Downloads\dotNet5778_Project01_8527_1882\BL\bin\Debug\DAL.pdb
+C:\Users\tashnerb\Downloads\dotNet5778_Project01_8527_1882\BL\bin\Debug\DS.pdb
+C:\Users\tashnerb\Downloads\dotNet5778_Project01_8527_1882\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+C:\Users\tashnerb\Downloads\dotNet5778_Project01_8527_1882\BL\obj\Debug\BL.dll
+C:\Users\tashnerb\Downloads\dotNet5778_Project01_8527_1882\BL\obj\Debug\BL.pdb
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק ב פרויקט\dotNet5778_Project01_8527_1882\BL\bin\Debug\BL.dll
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק ב פרויקט\dotNet5778_Project01_8527_1882\BL\bin\Debug\BL.pdb
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק ב פרויקט\dotNet5778_Project01_8527_1882\BL\bin\Debug\BE.dll
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק ב פרויקט\dotNet5778_Project01_8527_1882\BL\bin\Debug\DAL.dll
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק ב פרויקט\dotNet5778_Project01_8527_1882\BL\bin\Debug\DS.dll
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק ב פרויקט\dotNet5778_Project01_8527_1882\BL\bin\Debug\BE.pdb
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק ב פרויקט\dotNet5778_Project01_8527_1882\BL\bin\Debug\DAL.pdb
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק ב פרויקט\dotNet5778_Project01_8527_1882\BL\bin\Debug\DS.pdb
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק ב פרויקט\dotNet5778_Project01_8527_1882\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק ב פרויקט\dotNet5778_Project01_8527_1882\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק ב פרויקט\dotNet5778_Project01_8527_1882\BL\obj\Debug\BL.dll
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק ב פרויקט\dotNet5778_Project01_8527_1882\BL\obj\Debug\BL.pdb
+C:\Users\tamar\Documents\שנה ב'\סמסטר א'\מיני פרויקט במערכות חלונות\חלק  ב פרויקט\dotNet5778_Project01_8527_1882\BL\bin\Debug\BL.dll
+C:\Users\tamar\Documents\שנה ב'\סמסטר א'\מיני פרויקט במערכות חלונות\חלק  ב פרויקט\dotNet5778_Project01_8527_1882\BL\bin\Debug\BL.pdb
+C:\Users\tamar\Documents\שנה ב'\סמסטר א'\מיני פרויקט במערכות חלונות\חלק  ב פרויקט\dotNet5778_Project01_8527_1882\BL\bin\Debug\BE.dll
+C:\Users\tamar\Documents\שנה ב'\סמסטר א'\מיני פרויקט במערכות חלונות\חלק  ב פרויקט\dotNet5778_Project01_8527_1882\BL\bin\Debug\DAL.dll
+C:\Users\tamar\Documents\שנה ב'\סמסטר א'\מיני פרויקט במערכות חלונות\חלק  ב פרויקט\dotNet5778_Project01_8527_1882\BL\bin\Debug\DS.dll
+C:\Users\tamar\Documents\שנה ב'\סמסטר א'\מיני פרויקט במערכות חלונות\חלק  ב פרויקט\dotNet5778_Project01_8527_1882\BL\bin\Debug\BE.pdb
+C:\Users\tamar\Documents\שנה ב'\סמסטר א'\מיני פרויקט במערכות חלונות\חלק  ב פרויקט\dotNet5778_Project01_8527_1882\BL\bin\Debug\DAL.pdb
+C:\Users\tamar\Documents\שנה ב'\סמסטר א'\מיני פרויקט במערכות חלונות\חלק  ב פרויקט\dotNet5778_Project01_8527_1882\BL\bin\Debug\DS.pdb
+C:\Users\tamar\Documents\שנה ב'\סמסטר א'\מיני פרויקט במערכות חלונות\חלק  ב פרויקט\dotNet5778_Project01_8527_1882\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+C:\Users\tamar\Documents\שנה ב'\סמסטר א'\מיני פרויקט במערכות חלונות\חלק  ב פרויקט\dotNet5778_Project01_8527_1882\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\tamar\Documents\שנה ב'\סמסטר א'\מיני פרויקט במערכות חלונות\חלק  ב פרויקט\dotNet5778_Project01_8527_1882\BL\obj\Debug\BL.dll
+C:\Users\tamar\Documents\שנה ב'\סמסטר א'\מיני פרויקט במערכות חלונות\חלק  ב פרויקט\dotNet5778_Project01_8527_1882\BL\obj\Debug\BL.pdb
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק ב פרויקט\dotNet5778_Project01_8527_1882\dotNet5778_Project01_8527_1882\BL\bin\Debug\BL.dll
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק ב פרויקט\dotNet5778_Project01_8527_1882\dotNet5778_Project01_8527_1882\BL\bin\Debug\BL.pdb
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק ב פרויקט\dotNet5778_Project01_8527_1882\dotNet5778_Project01_8527_1882\BL\bin\Debug\BE.dll
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק ב פרויקט\dotNet5778_Project01_8527_1882\dotNet5778_Project01_8527_1882\BL\bin\Debug\DAL.dll
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק ב פרויקט\dotNet5778_Project01_8527_1882\dotNet5778_Project01_8527_1882\BL\bin\Debug\DS.dll
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק ב פרויקט\dotNet5778_Project01_8527_1882\dotNet5778_Project01_8527_1882\BL\bin\Debug\BE.pdb
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק ב פרויקט\dotNet5778_Project01_8527_1882\dotNet5778_Project01_8527_1882\BL\bin\Debug\DAL.pdb
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק ב פרויקט\dotNet5778_Project01_8527_1882\dotNet5778_Project01_8527_1882\BL\bin\Debug\DS.pdb
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק ב פרויקט\dotNet5778_Project01_8527_1882\dotNet5778_Project01_8527_1882\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק ב פרויקט\dotNet5778_Project01_8527_1882\dotNet5778_Project01_8527_1882\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק ב פרויקט\dotNet5778_Project01_8527_1882\dotNet5778_Project01_8527_1882\BL\obj\Debug\BL.dll
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק ב פרויקט\dotNet5778_Project01_8527_1882\dotNet5778_Project01_8527_1882\BL\obj\Debug\BL.pdb
+C:\Users\tashnerb\Downloads\BL\bin\Debug\BL.dll
+C:\Users\tashnerb\Downloads\BL\bin\Debug\BL.pdb
+C:\Users\tashnerb\Downloads\BL\bin\Debug\BE.dll
+C:\Users\tashnerb\Downloads\BL\bin\Debug\DAL.dll
+C:\Users\tashnerb\Downloads\BL\bin\Debug\DS.dll
+C:\Users\tashnerb\Downloads\BL\bin\Debug\BE.pdb
+C:\Users\tashnerb\Downloads\BL\bin\Debug\DAL.pdb
+C:\Users\tashnerb\Downloads\BL\bin\Debug\DS.pdb
+C:\Users\tashnerb\Downloads\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+C:\Users\tashnerb\Downloads\BL\obj\Debug\BL.dll
+C:\Users\tashnerb\Downloads\BL\obj\Debug\BL.pdb
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק ב פרויקט\BL\bin\Debug\BL.dll
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק ב פרויקט\BL\bin\Debug\BL.pdb
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק ב פרויקט\BL\bin\Debug\BE.dll
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק ב פרויקט\BL\bin\Debug\DAL.dll
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק ב פרויקט\BL\bin\Debug\DS.dll
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק ב פרויקט\BL\bin\Debug\BE.pdb
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק ב פרויקט\BL\bin\Debug\DAL.pdb
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק ב פרויקט\BL\bin\Debug\DS.pdb
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק ב פרויקט\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק ב פרויקט\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק ב פרויקט\BL\obj\Debug\BL.dll
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק ב פרויקט\BL\obj\Debug\BL.pdb
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק ב פרויקט\BL\bin\Debug\GoogleMapsApi.dll
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק ב פרויקט\BL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\barilan\Downloads\dotNet5778_Project03_8527_1882\BL\bin\Debug\BL.dll
+C:\Users\barilan\Downloads\dotNet5778_Project03_8527_1882\BL\bin\Debug\BL.pdb
+C:\Users\barilan\Downloads\dotNet5778_Project03_8527_1882\BL\bin\Debug\BE.dll
+C:\Users\barilan\Downloads\dotNet5778_Project03_8527_1882\BL\bin\Debug\DAL.dll
+C:\Users\barilan\Downloads\dotNet5778_Project03_8527_1882\BL\bin\Debug\GoogleMapsApi.dll
+C:\Users\barilan\Downloads\dotNet5778_Project03_8527_1882\BL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\barilan\Downloads\dotNet5778_Project03_8527_1882\BL\bin\Debug\DS.dll
+C:\Users\barilan\Downloads\dotNet5778_Project03_8527_1882\BL\bin\Debug\BE.pdb
+C:\Users\barilan\Downloads\dotNet5778_Project03_8527_1882\BL\bin\Debug\DAL.pdb
+C:\Users\barilan\Downloads\dotNet5778_Project03_8527_1882\BL\bin\Debug\DS.pdb
+C:\Users\barilan\Downloads\dotNet5778_Project03_8527_1882\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+C:\Users\barilan\Downloads\dotNet5778_Project03_8527_1882\BL\obj\Debug\BL.dll
+C:\Users\barilan\Downloads\dotNet5778_Project03_8527_1882\BL\obj\Debug\BL.pdb
+C:\Users\tamar\Documents\שנה ב'\סמסטר א'\מיני פרויקט במערכות חלונות\סופי\dotNet5778_Project03_8527_1882\BL\bin\Debug\BL.dll
+C:\Users\tamar\Documents\שנה ב'\סמסטר א'\מיני פרויקט במערכות חלונות\סופי\dotNet5778_Project03_8527_1882\BL\bin\Debug\BL.pdb
+C:\Users\tamar\Documents\שנה ב'\סמסטר א'\מיני פרויקט במערכות חלונות\סופי\dotNet5778_Project03_8527_1882\BL\bin\Debug\BE.dll
+C:\Users\tamar\Documents\שנה ב'\סמסטר א'\מיני פרויקט במערכות חלונות\סופי\dotNet5778_Project03_8527_1882\BL\bin\Debug\DAL.dll
+C:\Users\tamar\Documents\שנה ב'\סמסטר א'\מיני פרויקט במערכות חלונות\סופי\dotNet5778_Project03_8527_1882\BL\bin\Debug\GoogleMapsApi.dll
+C:\Users\tamar\Documents\שנה ב'\סמסטר א'\מיני פרויקט במערכות חלונות\סופי\dotNet5778_Project03_8527_1882\BL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\tamar\Documents\שנה ב'\סמסטר א'\מיני פרויקט במערכות חלונות\סופי\dotNet5778_Project03_8527_1882\BL\bin\Debug\DS.dll
+C:\Users\tamar\Documents\שנה ב'\סמסטר א'\מיני פרויקט במערכות חלונות\סופי\dotNet5778_Project03_8527_1882\BL\bin\Debug\BE.pdb
+C:\Users\tamar\Documents\שנה ב'\סמסטר א'\מיני פרויקט במערכות חלונות\סופי\dotNet5778_Project03_8527_1882\BL\bin\Debug\DAL.pdb
+C:\Users\tamar\Documents\שנה ב'\סמסטר א'\מיני פרויקט במערכות חלונות\סופי\dotNet5778_Project03_8527_1882\BL\bin\Debug\DS.pdb
+C:\Users\tamar\Documents\שנה ב'\סמסטר א'\מיני פרויקט במערכות חלונות\סופי\dotNet5778_Project03_8527_1882\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+C:\Users\tamar\Documents\שנה ב'\סמסטר א'\מיני פרויקט במערכות חלונות\סופי\dotNet5778_Project03_8527_1882\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\tamar\Documents\שנה ב'\סמסטר א'\מיני פרויקט במערכות חלונות\סופי\dotNet5778_Project03_8527_1882\BL\obj\Debug\BL.dll
+C:\Users\tamar\Documents\שנה ב'\סמסטר א'\מיני פרויקט במערכות חלונות\סופי\dotNet5778_Project03_8527_1882\BL\obj\Debug\BL.pdb
+C:\Users\tamar\Documents\שנה ב'\סמסטר א'\מיני פרויקט במערכות חלונות\סופי\dotNet5778_Project03_8527_1882\BL\bin\Debug\GoogleMapsApi.xml
+C:\Users\tamar\Documents\שנה ב'\סמסטר א'\מיני פרויקט במערכות חלונות\סופי\dotNet5778_Project03_8527_1882\BL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק 3 פרויקט\dotNet5778_Project01_8527_1882\BL\bin\Debug\BL.dll
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק 3 פרויקט\dotNet5778_Project01_8527_1882\BL\bin\Debug\BL.pdb
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק 3 פרויקט\dotNet5778_Project01_8527_1882\BL\bin\Debug\BE.dll
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק 3 פרויקט\dotNet5778_Project01_8527_1882\BL\bin\Debug\DAL.dll
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק 3 פרויקט\dotNet5778_Project01_8527_1882\BL\bin\Debug\GoogleMapsApi.dll
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק 3 פרויקט\dotNet5778_Project01_8527_1882\BL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק 3 פרויקט\dotNet5778_Project01_8527_1882\BL\bin\Debug\DS.dll
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק 3 פרויקט\dotNet5778_Project01_8527_1882\BL\bin\Debug\BE.pdb
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק 3 פרויקט\dotNet5778_Project01_8527_1882\BL\bin\Debug\DAL.pdb
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק 3 פרויקט\dotNet5778_Project01_8527_1882\BL\bin\Debug\GoogleMapsApi.xml
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק 3 פרויקט\dotNet5778_Project01_8527_1882\BL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק 3 פרויקט\dotNet5778_Project01_8527_1882\BL\bin\Debug\DS.pdb
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק 3 פרויקט\dotNet5778_Project01_8527_1882\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק 3 פרויקט\dotNet5778_Project01_8527_1882\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק 3 פרויקט\dotNet5778_Project01_8527_1882\BL\obj\Debug\BL.dll
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק 3 פרויקט\dotNet5778_Project01_8527_1882\BL\obj\Debug\BL.pdb
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק 3 פרויקט\dotNet5778_Project03_8527_1882\BL\bin\Debug\BL.dll
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק 3 פרויקט\dotNet5778_Project03_8527_1882\BL\bin\Debug\BL.pdb
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק 3 פרויקט\dotNet5778_Project03_8527_1882\BL\bin\Debug\BE.dll
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק 3 פרויקט\dotNet5778_Project03_8527_1882\BL\bin\Debug\DAL.dll
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק 3 פרויקט\dotNet5778_Project03_8527_1882\BL\bin\Debug\GoogleMapsApi.dll
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק 3 פרויקט\dotNet5778_Project03_8527_1882\BL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק 3 פרויקט\dotNet5778_Project03_8527_1882\BL\bin\Debug\DS.dll
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק 3 פרויקט\dotNet5778_Project03_8527_1882\BL\bin\Debug\BE.pdb
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק 3 פרויקט\dotNet5778_Project03_8527_1882\BL\bin\Debug\DAL.pdb
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק 3 פרויקט\dotNet5778_Project03_8527_1882\BL\bin\Debug\GoogleMapsApi.xml
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק 3 פרויקט\dotNet5778_Project03_8527_1882\BL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק 3 פרויקט\dotNet5778_Project03_8527_1882\BL\bin\Debug\DS.pdb
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק 3 פרויקט\dotNet5778_Project03_8527_1882\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק 3 פרויקט\dotNet5778_Project03_8527_1882\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק 3 פרויקט\dotNet5778_Project03_8527_1882\BL\obj\Debug\BL.dll
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק 3 פרויקט\dotNet5778_Project03_8527_1882\BL\obj\Debug\BL.pdb
+C:\Users\tashnerb\Downloads\dotNet5778_Project03_8527_1882\BL\bin\Debug\BL.dll
+C:\Users\tashnerb\Downloads\dotNet5778_Project03_8527_1882\BL\bin\Debug\BL.pdb
+C:\Users\tashnerb\Downloads\dotNet5778_Project03_8527_1882\BL\bin\Debug\BE.dll
+C:\Users\tashnerb\Downloads\dotNet5778_Project03_8527_1882\BL\bin\Debug\DAL.dll
+C:\Users\tashnerb\Downloads\dotNet5778_Project03_8527_1882\BL\bin\Debug\GoogleMapsApi.dll
+C:\Users\tashnerb\Downloads\dotNet5778_Project03_8527_1882\BL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\tashnerb\Downloads\dotNet5778_Project03_8527_1882\BL\bin\Debug\DS.dll
+C:\Users\tashnerb\Downloads\dotNet5778_Project03_8527_1882\BL\bin\Debug\BE.pdb
+C:\Users\tashnerb\Downloads\dotNet5778_Project03_8527_1882\BL\bin\Debug\DAL.pdb
+C:\Users\tashnerb\Downloads\dotNet5778_Project03_8527_1882\BL\bin\Debug\GoogleMapsApi.xml
+C:\Users\tashnerb\Downloads\dotNet5778_Project03_8527_1882\BL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\tashnerb\Downloads\dotNet5778_Project03_8527_1882\BL\bin\Debug\DS.pdb
+C:\Users\tashnerb\Downloads\dotNet5778_Project03_8527_1882\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+C:\Users\tashnerb\Downloads\dotNet5778_Project03_8527_1882\BL\obj\Debug\BL.dll
+C:\Users\tashnerb\Downloads\dotNet5778_Project03_8527_1882\BL\obj\Debug\BL.pdb
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\סופי\dotNet5778_Project03_8527_1882\BL\bin\Debug\BL.dll
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\סופי\dotNet5778_Project03_8527_1882\BL\bin\Debug\BL.pdb
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\סופי\dotNet5778_Project03_8527_1882\BL\bin\Debug\BE.dll
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\סופי\dotNet5778_Project03_8527_1882\BL\bin\Debug\DAL.dll
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\סופי\dotNet5778_Project03_8527_1882\BL\bin\Debug\GoogleMapsApi.dll
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\סופי\dotNet5778_Project03_8527_1882\BL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\סופי\dotNet5778_Project03_8527_1882\BL\bin\Debug\DS.dll
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\סופי\dotNet5778_Project03_8527_1882\BL\bin\Debug\BE.pdb
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\סופי\dotNet5778_Project03_8527_1882\BL\bin\Debug\DAL.pdb
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\סופי\dotNet5778_Project03_8527_1882\BL\bin\Debug\GoogleMapsApi.xml
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\סופי\dotNet5778_Project03_8527_1882\BL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\סופי\dotNet5778_Project03_8527_1882\BL\bin\Debug\DS.pdb
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\סופי\dotNet5778_Project03_8527_1882\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\סופי\dotNet5778_Project03_8527_1882\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\סופי\dotNet5778_Project03_8527_1882\BL\obj\Debug\BL.dll
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\סופי\dotNet5778_Project03_8527_1882\BL\obj\Debug\BL.pdb

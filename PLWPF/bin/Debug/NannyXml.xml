@@ -1,0 +1,93 @@
+<?xml version="1.0"?>
+<ArrayOfNanny xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Nanny>
+    <id>109</id>
+    <lastName>bald</lastName>
+    <firstName>Gila</firstName>
+    <idAndName>109 Gila bald</idAndName>
+    <bDay>1996-12-01T00:00:00</bDay>
+    <phone>405</phone>
+    <address>יעקב,רחובות,ישראל</address>
+    <elevator>true</elevator>
+    <floor>2</floor>
+    <yearsOfExperience>10</yearsOfExperience>
+    <maxKids>5</maxKids>
+    <minAge>5</minAge>
+    <maxAge>60</maxAge>
+    <allowsHourlyRate>true</allowsHourlyRate>
+    <hourlyRate>10</hourlyRate>
+    <monthlyRate>1000</monthlyRate>
+    <daysOfWork>
+      <boolean>true</boolean>
+      <boolean>true</boolean>
+      <boolean>true</boolean>
+      <boolean>true</boolean>
+      <boolean>true</boolean>
+      <boolean>true</boolean>
+    </daysOfWork>
+    <tempNeededHours>2,6,8,8,7.5,8,8,8,16,16,16,16,16,16</tempNeededHours>
+    <daysOff>true</daysOff>
+    <daysOffProp>MinistryOfEducation</daysOffProp>
+    <recommendations>שומרת כשרות</recommendations>
+  </Nanny>
+  <Nanny>
+    <id>39</id>
+    <lastName>bal</lastName>
+    <firstName>Sara</firstName>
+    <idAndName>39 Sara bal</idAndName>
+    <bDay>1980-12-01T00:00:00</bDay>
+    <phone>4067</phone>
+    <address>בית הדפוס,ירושלים,ישראל</address>
+    <elevator>true</elevator>
+    <floor>2</floor>
+    <yearsOfExperience>20</yearsOfExperience>
+    <maxKids>4</maxKids>
+    <minAge>5</minAge>
+    <maxAge>50</maxAge>
+    <allowsHourlyRate>true</allowsHourlyRate>
+    <hourlyRate>20</hourlyRate>
+    <monthlyRate>2000</monthlyRate>
+    <daysOfWork>
+      <boolean>true</boolean>
+      <boolean>true</boolean>
+      <boolean>true</boolean>
+      <boolean>true</boolean>
+      <boolean>true</boolean>
+      <boolean>true</boolean>
+    </daysOfWork>
+    <tempNeededHours>2,6,7,7,7,7,7,7,14,14,14,14,14,14</tempNeededHours>
+    <daysOff>false</daysOff>
+    <daysOffProp>TMT</daysOffProp>
+    <recommendations>ניתן לקבל המלצות</recommendations>
+  </Nanny>
+  <Nanny>
+    <id>543439</id>
+    <lastName>a</lastName>
+    <firstName>ana</firstName>
+    <idAndName>543439 ana a</idAndName>
+    <bDay>1980-12-01T00:00:00</bDay>
+    <phone>4067</phone>
+    <address>יוספטל, רמלה, ישראל</address>
+    <elevator>true</elevator>
+    <floor>2</floor>
+    <yearsOfExperience>20</yearsOfExperience>
+    <maxKids>4</maxKids>
+    <minAge>5</minAge>
+    <maxAge>60</maxAge>
+    <allowsHourlyRate>true</allowsHourlyRate>
+    <hourlyRate>20</hourlyRate>
+    <monthlyRate>2000</monthlyRate>
+    <daysOfWork>
+      <boolean>true</boolean>
+      <boolean>false</boolean>
+      <boolean>true</boolean>
+      <boolean>true</boolean>
+      <boolean>true</boolean>
+      <boolean>true</boolean>
+    </daysOfWork>
+    <tempNeededHours>2,6,7,7,7,7,7,7,14,14,14,14,14,14</tempNeededHours>
+    <daysOff>false</daysOff>
+    <daysOffProp>TMT</daysOffProp>
+    <recommendations>ניתן לקבל המלצות</recommendations>
+  </Nanny>
+</ArrayOfNanny>

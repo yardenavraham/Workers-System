@@ -1,0 +1,105 @@
+<?xml version="1.0"?>
+<ArrayOfMother xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Mother>
+    <id>318208527</id>
+    <lastName>Barilan</lastName>
+    <firstName>Miriam</firstName>
+    <idAndName>318208527 Miriam Barilan</idAndName>
+    <phone>548311420</phone>
+    <startPhone>054</startPhone>
+    <endPhone>8311420</endPhone>
+    <address>רחובות, ישראל</address>
+    <nannyAddress>רחובות, ישראל</nannyAddress>
+    <neededDays>
+      <boolean>true</boolean>
+      <boolean>true</boolean>
+      <boolean>true</boolean>
+      <boolean>true</boolean>
+      <boolean>true</boolean>
+      <boolean>false</boolean>
+    </neededDays>
+    <tempNeededHours>2,6,8,8,8,8,8,8,16,16,16,16,16,16</tempNeededHours>
+    <remarks>no</remarks>
+  </Mother>
+  <Mother>
+    <id>123456789</id>
+    <lastName>Tzameret</lastName>
+    <firstName>Talia</firstName>
+    <idAndName>123456789 Talia Tzameret</idAndName>
+    <phone>524130990</phone>
+    <startPhone>052</startPhone>
+    <endPhone>4130990</endPhone>
+    <address>רבי ישראל נג'ארה, ירושלים, ישראל</address>
+    <nannyAddress>רבי ישראל נג'ארה, ירושלים, ישראל</nannyAddress>
+    <neededDays>
+      <boolean>false</boolean>
+      <boolean>true</boolean>
+      <boolean>false</boolean>
+      <boolean>false</boolean>
+      <boolean>false</boolean>
+      <boolean>false</boolean>
+    </neededDays>
+    <tempNeededHours>2,6,9,9,9,9,9,9,18,12,18,18,18,18</tempNeededHours>
+    <remarks>no</remarks>
+  </Mother>
+  <Mother>
+    <id>3564674</id>
+    <lastName>shnerb</lastName>
+    <firstName>shira</firstName>
+    <idAndName>3564674 shira shnerb</idAndName>
+    <phone>526071638</phone>
+    <startPhone>052</startPhone>
+    <endPhone>6071638</endPhone>
+    <address>שפרינצק 8, לוד, ישראל</address>
+    <nannyAddress>שפרינצק 8, לוד, ישראל</nannyAddress>
+    <neededDays>
+      <boolean>true</boolean>
+      <boolean>false</boolean>
+      <boolean>false</boolean>
+      <boolean>false</boolean>
+      <boolean>false</boolean>
+      <boolean>false</boolean>
+    </neededDays>
+    <tempNeededHours>2,6,9.35,0,0,0,0,0,14,0,0,0,0,0</tempNeededHours>
+  </Mother>
+  <Mother>
+    <id>88689696</id>
+    <lastName>levanoni</lastName>
+    <firstName>sagit</firstName>
+    <idAndName>88689696 sagit levanoni</idAndName>
+    <phone>50689708</phone>
+    <startPhone>050</startPhone>
+    <endPhone>689708</endPhone>
+    <address>מבוא חורון</address>
+    <nannyAddress>מודיעין מכבים רעות, ישראל</nannyAddress>
+    <neededDays>
+      <boolean>false</boolean>
+      <boolean>true</boolean>
+      <boolean>false</boolean>
+      <boolean>false</boolean>
+      <boolean>false</boolean>
+      <boolean>false</boolean>
+    </neededDays>
+    <tempNeededHours>2,6,0,9,0,0,0,0,0,14,0,0,0,0</tempNeededHours>
+  </Mother>
+  <Mother>
+    <id>21435</id>
+    <lastName>haim</lastName>
+    <firstName>miri</firstName>
+    <idAndName>21435 miri haim</idAndName>
+    <phone>501234253</phone>
+    <startPhone>050</startPhone>
+    <endPhone>1234253</endPhone>
+    <address>קרית מלאכי, ישראל</address>
+    <nannyAddress>קרית מלאכי, ישראל</nannyAddress>
+    <neededDays>
+      <boolean>true</boolean>
+      <boolean>false</boolean>
+      <boolean>false</boolean>
+      <boolean>false</boolean>
+      <boolean>false</boolean>
+      <boolean>false</boolean>
+    </neededDays>
+    <tempNeededHours>2,6,7,0,0,0,0,0,10,0,0,0,0,0</tempNeededHours>
+  </Mother>
+</ArrayOfMother>

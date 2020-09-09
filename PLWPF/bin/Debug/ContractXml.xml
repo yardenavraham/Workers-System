@@ -1,0 +1,93 @@
+<?xml version="1.0"?>
+<ArrayOfContract xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Contract>
+    <NumContract>10000001</NumContract>
+    <IdChild>23445</IdChild>
+    <ageChild>0.5</ageChild>
+    <IdNanny>39</IdNanny>
+    <IdMom>318208527</IdMom>
+    <momAddress>רחובות, ישראל</momAddress>
+    <nannyAddress>בית הדפוס,ירושלים,ישראל</nannyAddress>
+    <IsMeeting>true</IsMeeting>
+    <IsContract>true</IsContract>
+    <HourPayment>2560</HourPayment>
+    <MonthPayment>2000</MonthPayment>
+    <HourOrMonth>false</HourOrMonth>
+    <HourOrMonthProp>Month</HourOrMonthProp>
+    <BeginWork>2017-12-15T00:00:00</BeginWork>
+    <EndWork>2018-12-15T00:00:00</EndWork>
+    <numHoursPerWeek>32</numHoursPerWeek>
+  </Contract>
+  <Contract>
+    <NumContract>10000002</NumContract>
+    <IdChild>3442</IdChild>
+    <ageChild>2.5</ageChild>
+    <IdNanny>39</IdNanny>
+    <IdMom>123456789</IdMom>
+    <momAddress>רבי ישראל נג'ארה, ירושלים, ישראל</momAddress>
+    <nannyAddress>בית הדפוס,ירושלים,ישראל</nannyAddress>
+    <IsMeeting>true</IsMeeting>
+    <IsContract>true</IsContract>
+    <HourPayment>1600</HourPayment>
+    <MonthPayment>2000</MonthPayment>
+    <HourOrMonth>true</HourOrMonth>
+    <HourOrMonthProp>Hour</HourOrMonthProp>
+    <BeginWork>2017-12-15T00:00:00</BeginWork>
+    <EndWork>2018-12-15T00:00:00</EndWork>
+    <numHoursPerWeek>20</numHoursPerWeek>
+  </Contract>
+  <Contract>
+    <NumContract>10000003</NumContract>
+    <IdChild>316261882</IdChild>
+    <ageChild>3.5</ageChild>
+    <IdNanny>109</IdNanny>
+    <IdMom>318208527</IdMom>
+    <momAddress>רחובות, ישראל</momAddress>
+    <nannyAddress>יעקב,רחובות,ישראל</nannyAddress>
+    <IsMeeting>true</IsMeeting>
+    <IsContract>true</IsContract>
+    <HourPayment>1280</HourPayment>
+    <MonthPayment>1000</MonthPayment>
+    <HourOrMonth>false</HourOrMonth>
+    <HourOrMonthProp>Month</HourOrMonthProp>
+    <BeginWork>2017-12-15T00:00:00</BeginWork>
+    <EndWork>2018-12-15T00:00:00</EndWork>
+    <numHoursPerWeek>32</numHoursPerWeek>
+  </Contract>
+  <Contract>
+    <NumContract>10000004</NumContract>
+    <IdChild>876579</IdChild>
+    <ageChild>0.5</ageChild>
+    <IdNanny>543439</IdNanny>
+    <IdMom>123456789</IdMom>
+    <momAddress>רבי ישראל נג'ארה, ירושלים, ישראל</momAddress>
+    <nannyAddress>יוספטל, רמלה, ישראל</nannyAddress>
+    <IsMeeting>false</IsMeeting>
+    <IsContract>false</IsContract>
+    <HourPayment>960</HourPayment>
+    <MonthPayment>2000</MonthPayment>
+    <HourOrMonth>true</HourOrMonth>
+    <HourOrMonthProp>Hour</HourOrMonthProp>
+    <BeginWork>2018-01-22T00:09:06.0221756+02:00</BeginWork>
+    <EndWork>2019-01-22T00:09:06.0221756+02:00</EndWork>
+    <numHoursPerWeek>12</numHoursPerWeek>
+  </Contract>
+  <Contract>
+    <NumContract>10000005</NumContract>
+    <IdChild>9809808</IdChild>
+    <ageChild>4</ageChild>
+    <IdNanny>109</IdNanny>
+    <IdMom>88689696</IdMom>
+    <momAddress>מודיעין מכבים רעות, ישראל</momAddress>
+    <nannyAddress>יעקב,רחובות,ישראל</nannyAddress>
+    <IsMeeting>false</IsMeeting>
+    <IsContract>false</IsContract>
+    <HourPayment>1200</HourPayment>
+    <MonthPayment>1000</MonthPayment>
+    <HourOrMonth>false</HourOrMonth>
+    <HourOrMonthProp>Month</HourOrMonthProp>
+    <BeginWork>2018-01-22T23:21:53.1560398+02:00</BeginWork>
+    <EndWork>2019-01-22T23:21:53.1560398+02:00</EndWork>
+    <numHoursPerWeek>30</numHoursPerWeek>
+  </Contract>
+</ArrayOfContract>

@@ -1,0 +1,270 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PLWPF"
+        xmlns:BE="clr-namespace:BE;assembly=BE" x:Class="PLWPF.NannyWindow"
+        mc:Ignorable="d"
+        Validation.Error="validation_Error" 
+        Title="NannyWindow" Height="765" Width="850">
+    <Window.Resources>
+        <local:NotBooleanToVisibilityConverter      
+         x:Key="notBooleanToVisibilityConverter" />
+    </Window.Resources>
+    <Grid d:DataContext="{d:DesignInstance Type=BE:Nanny}">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="329*"/>
+            <ColumnDefinition Width="92*"/>
+        </Grid.ColumnDefinitions>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="29*"/>
+            <RowDefinition Height="214*"/>
+        </Grid.RowDefinitions>
+        <Label Content="Nanny Details:" HorizontalAlignment="Center" VerticalAlignment="Stretch" FontSize="30" FontFamily="Segoe Print" Margin="254,0,140,27" Width="264"/>
+        <ComboBox x:Name="option" HorizontalAlignment="Left" Margin="274,54,0,0" VerticalAlignment="Top" Width="120" Height="32">
+            <ComboBoxItem x:Name="selectadd" Content="add"/>
+            <ComboBoxItem x:Name="selectupdate" Content="update"/>
+            <ComboBoxItem x:Name="selectdelete" Content="remove"/>
+        </ComboBox>
+        <Grid x:Name="NannyGrid" HorizontalAlignment="Left" Margin="10,10,0,0" Grid.Row="1" VerticalAlignment="Top" Height="626" Width="670" IsEnabled="False" Grid.ColumnSpan="2">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="127" />
+                <ColumnDefinition Width="212"/>
+                <ColumnDefinition Width="163"/>
+                <ColumnDefinition Width="126"/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto" MinHeight="27"/>
+                <RowDefinition Height="Auto" MinHeight="163"/>
+            </Grid.RowDefinitions>
+            <Label Content="address:" Grid.Column="0" HorizontalAlignment="Left" Margin="3,7,0,4" Grid.Row="5" VerticalAlignment="Center" Height="26" Width="53"/>
+            <Label Content="Allows Hourly Rate:" Grid.Column="2" HorizontalAlignment="Left" Margin="3,7,0,4" Grid.Row="8" VerticalAlignment="Center" Height="26" Width="119"/>
+            <Label Content="Days Off according to:" Grid.Column="2" HorizontalAlignment="Left" Margin="3" Grid.Row="6" VerticalAlignment="Center"/>
+            <Label Content="Birth Day:" Grid.Column="0" HorizontalAlignment="Left" Margin="3,4,0,7" Grid.Row="4" VerticalAlignment="Center" Height="26" Width="68"/>
+            <Label Content="elevator:" Grid.Column="0" HorizontalAlignment="Left" Margin="3,7,0,4" Grid.Row="7" VerticalAlignment="Center" Height="26" Width="55"/>
+            <Label Content="First Name:" Grid.Column="0" HorizontalAlignment="Left" Margin="3,7,0,4" Grid.Row="1" VerticalAlignment="Center" Height="26" Width="81"/>
+            <Label Content="floor:" Grid.Column="0" HorizontalAlignment="Left" Margin="3,10,0,13" Grid.Row="6" VerticalAlignment="Center" Height="26" Width="37"/>
+            <Label Content="Hourly Rate:" Grid.Column="2" HorizontalAlignment="Left" Margin="3,7,0,4" Grid.Row="9" VerticalAlignment="Center" Height="26" Width="83"/>
+            <Label Content="ID:" Grid.Column="0" HorizontalAlignment="Left" Margin="3,4,0,8" Grid.Row="0" VerticalAlignment="Center" Height="26" Width="37"/>
+            <Label Content="Last Name:" Grid.Column="0" HorizontalAlignment="Left" Margin="3,4,0,7" Grid.Row="2" VerticalAlignment="Center" Height="26" Width="68"/>
+            <Label Content="Max Age (months):" Grid.Column="0" HorizontalAlignment="Left" Margin="3,7,0,4" Grid.Row="11" VerticalAlignment="Center" Height="26" Width="115"/>
+            <Label Content="Max Kids:" Grid.Column="0" HorizontalAlignment="Left" Margin="3,7,0,4" Grid.Row="9" VerticalAlignment="Center" Height="26" Width="60"/>
+            <Label Content="Min Age (months):" Grid.Column="0" HorizontalAlignment="Left" Margin="3,4,0,7" Grid.Row="10" VerticalAlignment="Center" Height="26" Width="115"/>
+            <Label Content="Monthly Rate:" Grid.Column="2" HorizontalAlignment="Left" Margin="3,4,0,7" Grid.Row="7" VerticalAlignment="Center" Height="26" Width="83"/>
+            <Label Content="Phone Number:" Grid.Column="0" HorizontalAlignment="Left" Margin="3,7,0,4" Grid.Row="3" VerticalAlignment="Center" Height="26" Width="94"/>
+            <Label Content="Recommendations:" Grid.Column="2" HorizontalAlignment="Left" Margin="3,4,0,7" Grid.Row="10" VerticalAlignment="Center" Height="26" Width="119"/>
+            <Label Content="Years Of Experience:" Grid.Column="0" HorizontalAlignment="Left" Margin="3,4,0,7" Grid.Row="8" VerticalAlignment="Center" Height="26" Width="116"/>
+            <Label Content="Days:" Grid.Column="0" HorizontalAlignment="Left" Margin="3,0,0,1" Grid.Row="12" VerticalAlignment="Center" Height="26" Width="42"/>
+            <Label Content="Hours:" Grid.Column="0" HorizontalAlignment="Left" Margin="3,9,0,0" Grid.Row="13" VerticalAlignment="Top" Height="26" Width="53"/>
+
+            <TextBox x:Name="idTextBox" Grid.Column="1" HorizontalAlignment="Left" Height="24" Margin="3,4,0,10" Grid.Row="0" Text="{Binding id, Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnDataErrors=True, ValidatesOnExceptions=true}" VerticalAlignment="Center" Width="120"/>
+            <TextBox x:Name="firstNameTextBox" Grid.Column="1" HorizontalAlignment="Left" Height="24" Margin="3,9,0,4" Grid.Row="1" Text="{Binding firstName, Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnDataErrors=True, ValidatesOnExceptions=true}" VerticalAlignment="Center" Width="120"/>
+            <TextBox x:Name="lastNameTextBox" Grid.Column="1" HorizontalAlignment="Left" Height="24" Margin="3,4,0,9" Grid.Row="2" Text="{Binding lastName, Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnDataErrors=True, ValidatesOnExceptions=true}" VerticalAlignment="Center" Width="120"/>
+            <TextBox x:Name="phoneTextBox" Grid.Column="1" HorizontalAlignment="Left" Height="24" Margin="3,9,0,4" Grid.Row="3" Text="{Binding phone, Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnDataErrors=True, ValidatesOnExceptions=true}" VerticalAlignment="Center" Width="120"/>
+            <DatePicker x:Name="bDayDatePicker" Grid.Column="1" HorizontalAlignment="Left" Margin="3,4,0,9" Grid.Row="4" SelectedDate="{Binding bDay, Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnDataErrors=True, ValidatesOnExceptions=true}" VerticalAlignment="Center" Height="24" Width="102"/>
+            <local:PlaceAutoCompleteUC x:Name="addressTextBox" Grid.Column="1" HorizontalAlignment="Left" Height="24" Margin="3,9,0,4" Grid.Row="5" Text="{Binding address, Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnDataErrors=True, ValidatesOnExceptions=true}" VerticalAlignment="Center" Width="158"/>
+            <TextBox x:Name="floorTextBox" Grid.Column="1" HorizontalAlignment="Left" Height="24" Margin="3,10,0,15" Grid.Row="6" Text="{Binding floor, Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnDataErrors=True, ValidatesOnExceptions=true}" VerticalAlignment="Center" Width="120"/>
+            <CheckBox x:Name="elevatorCheckBox" Content="" Grid.Column="1" HorizontalAlignment="Left" IsChecked="{Binding elevator, Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnDataErrors=True, ValidatesOnExceptions=true}" Margin="3,13,0,8" Grid.Row="7" VerticalAlignment="Center" Height="16" Width="20"/>
+            <TextBox x:Name="yearsOfExperienceTextBox" Grid.Column="1" HorizontalAlignment="Left" Height="24" Margin="3,4,0,9" Grid.Row="8" Text="{Binding yearsOfExperience, Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnDataErrors=True, ValidatesOnExceptions=true}" VerticalAlignment="Center" Width="120"/>
+            <TextBox x:Name="maxKidsTextBox" Grid.Column="1" HorizontalAlignment="Left" Height="24" Margin="3,9,0,4" Grid.Row="9" Text="{Binding maxKids, Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnDataErrors=True, ValidatesOnExceptions=true}" VerticalAlignment="Center" Width="120"/>
+            <TextBox x:Name="minAgeTextBox" Grid.Column="1" HorizontalAlignment="Left" Height="24" Margin="3,4,0,9" Grid.Row="10" Text="{Binding minAge, Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnDataErrors=True, ValidatesOnExceptions=true}" VerticalAlignment="Center" Width="120"/>
+            <TextBox x:Name="maxAgeTextBox" Grid.Column="1" HorizontalAlignment="Left" Height="24" Margin="3,9,0,4" Grid.Row="11" Text="{Binding maxAge, Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnDataErrors=True, ValidatesOnExceptions=true}" VerticalAlignment="Center" Width="120"/>
+            <TextBox x:Name="monthlyRateTextBox" Grid.Column="3" HorizontalAlignment="Left" Height="24" Margin="3,4,0,9" Grid.Row="7" Text="{Binding monthlyRate, Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnExceptions=true}" VerticalAlignment="Center" Width="120"/>
+            <CheckBox x:Name="allowsHourlyRateCheckBox" Content="" Grid.Column="3" HorizontalAlignment="Left" IsChecked="{Binding allowsHourlyRate, Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnExceptions=true}" Margin="3,13,0,8" Grid.Row="8" VerticalAlignment="Center" Height="16" Width="20"/>
+            <TextBox x:Name="hourlyRateTextBox" Grid.Column="3" HorizontalAlignment="Left" Height="24" Margin="3,9,0,4" Grid.Row="9" Text="{Binding hourlyRate, Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnExceptions=true}" VerticalAlignment="Center" Width="120"
+                       Visibility="{Binding IsChecked, Converter={StaticResource notBooleanToVisibilityConverter}, ElementName=allowsHourlyRateCheckBox}"/>
+            <TextBox x:Name="recommendationsTextBox" Grid.Column="3" HorizontalAlignment="Left" Height="24" Margin="3,4,0,9" Grid.Row="10" Text="{Binding recommendations, Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnExceptions=true}" VerticalAlignment="Center" Width="120"/>
+            <ComboBox x:Name="daysOffPropComboBox" Grid.Column="3" SelectedItem="{Binding daysOffProp}" HorizontalAlignment="Left" Height="Auto" Margin="3" Grid.Row="6" VerticalAlignment="Center" Width="120"/>
+            <Expander x:Name="Hours" Header="Choose hours, please enter the hour in format hour.minutes (for 8:30 enter 8.30)" HorizontalAlignment="Left" Height="107" Margin="3,8,-8,0" Grid.Row="13" VerticalAlignment="Top" Width="509" Grid.ColumnSpan="3" Grid.Column="1">
+                <StackPanel>
+                    <Grid x:Name="hours_grid" Background="#FF97AAE6" UseLayoutRounding="False">
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="*"/>
+                            <RowDefinition Height="*"/>
+                            <RowDefinition Height="*"/>
+                        </Grid.RowDefinitions>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="*"/>
+                        </Grid.ColumnDefinitions>
+                        <Rectangle HorizontalAlignment="Left" Height="56" VerticalAlignment="Top" Width="433" OpacityMask="#FFCBD3EE" Grid.ColumnSpan="6" Grid.RowSpan="2" Grid.Row="1" Grid.Column="1" Fill="#FFC4D1F7" Margin="0,2,0,0"/>
+                        <Label Content="Sunday" HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Row="0" Grid.Column="1"/>
+                        <Label Content="Monday" HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Row="0" Grid.Column="2"/>
+                        <Label Content="Tuesday" HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Row="0" Grid.Column="3"/>
+                        <Label Content="Wednesday" HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Row="0" Grid.Column="4"/>
+                        <Label Content="Thursday" HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Row="0" Grid.Column="5"/>
+                        <Label Content="Friday" HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Row="0" Grid.Column="6"/>
+                        <Label Content="Start" HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Row="1" Grid.Column="0"/>
+                        <Label Content="End" HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Row="2" Grid.Column="0"/>
+                        <TextBox x:Name="sundayStart" Grid.Column="1" HorizontalAlignment="Stretch" Height="30" Grid.Row="1" TextWrapping="Wrap" VerticalAlignment="Stretch" MaxLength="5"
+                             Visibility="{Binding IsChecked, Converter={StaticResource notBooleanToVisibilityConverter}, ElementName=sunday}" />
+                        <TextBox x:Name="mondayStart" Grid.Column="2" HorizontalAlignment="Stretch" Height="30" Grid.Row="1" TextWrapping="Wrap" VerticalAlignment="Stretch" MaxLength="5"
+                             Visibility="{Binding IsChecked, Converter={StaticResource notBooleanToVisibilityConverter}, ElementName=monday}"/>
+                        <TextBox x:Name="tuesdayStart" Grid.Column="3" HorizontalAlignment="Stretch" Height="30" Grid.Row="1" TextWrapping="Wrap" VerticalAlignment="Stretch" MaxLength="5"
+                             Visibility="{Binding IsChecked, Converter={StaticResource notBooleanToVisibilityConverter}, ElementName=tuesday}"/>
+                        <TextBox x:Name="wednesdayStart" Grid.Column="4" HorizontalAlignment="Stretch" Height="30" Grid.Row="1" TextWrapping="Wrap" VerticalAlignment="Stretch" MaxLength="5"
+                             Visibility="{Binding IsChecked, Converter={StaticResource notBooleanToVisibilityConverter}, ElementName=wednesday}"/>
+                        <TextBox x:Name="thursdayStart" Grid.Column="5" HorizontalAlignment="Stretch" Height="30" Grid.Row="1" TextWrapping="Wrap" VerticalAlignment="Stretch" MaxLength="5" 
+                             Visibility="{Binding IsChecked, Converter={StaticResource notBooleanToVisibilityConverter}, ElementName=thursday}"/>
+                        <TextBox x:Name="fridayStart" Grid.Column="6" HorizontalAlignment="Stretch" Height="30" Grid.Row="1" TextWrapping="Wrap" VerticalAlignment="Stretch" MaxLength="5"
+                             Visibility="{Binding IsChecked, Converter={StaticResource notBooleanToVisibilityConverter}, ElementName=friday}"/>
+                        <TextBox x:Name="sundayEnd" Grid.Column="1" HorizontalAlignment="Stretch" Height="30" Grid.Row="2" TextWrapping="Wrap" VerticalAlignment="Stretch" MaxLength="5"
+                             Visibility="{Binding IsChecked, Converter={StaticResource notBooleanToVisibilityConverter}, ElementName=sunday}"/>
+                        <TextBox x:Name="mondayEnd" Grid.Column="2" HorizontalAlignment="Stretch" Height="30" Grid.Row="2" TextWrapping="Wrap" VerticalAlignment="Stretch" MaxLength="5" 
+                             Visibility="{Binding IsChecked, Converter={StaticResource notBooleanToVisibilityConverter}, ElementName=monday}"/>
+                        <TextBox x:Name="tuesdayEnd" Grid.Column="3" HorizontalAlignment="Stretch" Height="30" Grid.Row="2" TextWrapping="Wrap" VerticalAlignment="Stretch" MaxLength="5" 
+                             Visibility="{Binding IsChecked, Converter={StaticResource notBooleanToVisibilityConverter}, ElementName=tuesday}"/>
+                        <TextBox x:Name="wednesdayEnd" Grid.Column="4" HorizontalAlignment="Stretch" Height="30" Grid.Row="2" TextWrapping="Wrap" VerticalAlignment="Stretch" MaxLength="5"
+                             Visibility="{Binding IsChecked, Converter={StaticResource notBooleanToVisibilityConverter}, ElementName=wednesday}"/>
+                        <TextBox x:Name="thursdayEnd" Grid.Column="5" HorizontalAlignment="Stretch" Height="30" Grid.Row="2" TextWrapping="Wrap" VerticalAlignment="Stretch" MaxLength="5" 
+                             Visibility="{Binding IsChecked, Converter={StaticResource notBooleanToVisibilityConverter}, ElementName=thursday}"/>
+                        <TextBox x:Name="fridayEnd" Grid.Column="6" HorizontalAlignment="Stretch" Height="30" Grid.Row="2" TextWrapping="Wrap" VerticalAlignment="Stretch" MaxLength="5" 
+                             Visibility="{Binding IsChecked, Converter={StaticResource notBooleanToVisibilityConverter}, ElementName=friday}"/>
+                        <Border BorderBrush="Black" BorderThickness="1" Grid.ColumnSpan="7" HorizontalAlignment="Left" Height="87" Grid.RowSpan="3" VerticalAlignment="Top" Width="505"/>
+
+                    </Grid>
+                </StackPanel>
+            </Expander>
+            <CheckBox x:Name="sunday" Content="Sunday" Grid.Row="12" VerticalAlignment="Bottom" Height="15" Margin="0,0,141,6" Grid.Column="1" IsChecked="{Binding daysOfWork[0], Mode=TwoWay, NotifyOnValidationError=True , ValidatesOnDataErrors=True, ValidatesOnExceptions=True}" HorizontalAlignment="Right" Width="72"/>
+            <CheckBox x:Name="monday" Content="Monday" Grid.Row="12" Margin="72,6,99,6" VerticalAlignment="Center" Height="15" Grid.ColumnSpan="2" Grid.Column="1" IsChecked="{Binding daysOfWork[1], Mode=TwoWay, NotifyOnValidationError=True , ValidatesOnDataErrors=True, ValidatesOnExceptions=True}"/>
+            <CheckBox x:Name="tuesday" Content="Tuesday" Grid.Row="12" Grid.Column="1" Margin="149,6,159,6" VerticalAlignment="Center" Height="15" Grid.ColumnSpan="2" IsChecked="{Binding daysOfWork[2], Mode=TwoWay, NotifyOnValidationError=True , ValidatesOnDataErrors=True, ValidatesOnExceptions=True}"/>
+            <CheckBox x:Name="wednesday" Content="Wednesday" Grid.Row="12" Grid.Column="2" Margin="22,6,57,6" VerticalAlignment="Center" Height="15" IsChecked="{Binding daysOfWork[3], Mode=TwoWay, NotifyOnValidationError=True , ValidatesOnDataErrors=True, ValidatesOnExceptions=True}"/>
+            <CheckBox x:Name="thursday" Content="Thursday" Grid.Row="12" Grid.Column="2" Margin="120,6,91,6" VerticalAlignment="Center" Height="15" Grid.ColumnSpan="2" IsChecked="{Binding daysOfWork[4], Mode=TwoWay, NotifyOnValidationError=True , ValidatesOnDataErrors=True, ValidatesOnExceptions=True}"/>
+            <CheckBox x:Name="friday" Content="Friday" Grid.Row="12" Margin="48,6,14,6" Grid.Column="3" VerticalAlignment="Center" Height="15" IsChecked="{Binding daysOfWork[5], Mode=TwoWay, NotifyOnValidationError=True , ValidatesOnDataErrors=True, ValidatesOnExceptions=True}"/>
+        </Grid>
+        <ComboBox x:Name="idComboBox" Margin="276,13,264,608" SelectionChanged="idComboBox_SelectionChanged" RenderTransformOrigin="0.5,0.5" Grid.Row="1" IsEnabled="False"/>
+
+        <Button x:Name="add" Content="ADD" HorizontalAlignment="Left" Margin="22,239,0,0" Grid.Row="1" VerticalAlignment="Top" Width="105" Height="35" Click="add_Click" Grid.Column="1" >
+            <Button.Style>
+                <Style>
+                    <Style.Triggers>
+                        <DataTrigger Binding="{Binding ElementName=option, Path=SelectedIndex}" Value="1">
+                            <Setter Property="Button.IsEnabled" Value="False"/>
+                        </DataTrigger>
+                        <DataTrigger Binding="{Binding ElementName=option, Path=SelectedIndex}" Value="2">
+                            <Setter Property="Button.IsEnabled" Value="False"/>
+                        </DataTrigger>
+                        <DataTrigger Binding="{Binding ElementName=yearsOfExperienceTextBox, Path=Text}" Value="0">
+                            <Setter Property="Button.IsEnabled" Value="false"/>
+                        </DataTrigger>
+                        <DataTrigger Binding="{Binding ElementName=phoneTextBox, Path=Text}" Value="0">
+                            <Setter Property="Button.IsEnabled" Value="false"/>
+                        </DataTrigger>
+                        <DataTrigger Binding="{Binding ElementName=addressTextBox, Path=Text}" Value="">
+                            <Setter Property="Button.IsEnabled" Value="false"/>
+                        </DataTrigger>
+                        <DataTrigger Binding="{Binding ElementName=maxKidsTextBox, Path=Text}" Value="0">
+                            <Setter Property="Button.IsEnabled" Value="false"/>
+                        </DataTrigger>
+                        <DataTrigger Binding="{Binding ElementName=monthlyRateTextBox, Path=Text}" Value="0">
+                            <Setter Property="Button.IsEnabled" Value="false"/>
+                        </DataTrigger>
+                        <DataTrigger Binding="{Binding ElementName=idTextBox, Path=Text}" Value="0">
+                            <Setter Property="Button.IsEnabled" Value="false"/>
+                        </DataTrigger>
+                        <DataTrigger Binding="{Binding ElementName=firstNameTextBox, Path=Text}" Value="">
+                            <Setter Property="Button.IsEnabled" Value="false"/>
+                        </DataTrigger>
+                        <DataTrigger Binding="{Binding ElementName=lastNameTextBox, Path=Text}" Value="">
+                            <Setter Property="Button.IsEnabled" Value="false"/>
+                        </DataTrigger>
+                        <DataTrigger Binding="{Binding ElementName=daysOffPropComboBox, Path=SelectedIndex}" Value="-1">
+                            <Setter Property="Button.IsEnabled" Value="false"/>
+                        </DataTrigger>
+                        <DataTrigger Binding="{Binding ElementName=maxAgeTextBox, Path=Text}" Value="0">
+                            <Setter Property="Button.IsEnabled" Value="false"/>
+                        </DataTrigger>
+                        <DataTrigger Binding="{Binding ElementName=minAgeTextBox, Path=Text}" Value="0">
+                            <Setter Property="Button.IsEnabled" Value="false"/>
+                        </DataTrigger>
+
+                    </Style.Triggers>
+                </Style>
+            </Button.Style>
+        </Button>
+        <Button x:Name="update" Content="UPDATE" HorizontalAlignment="Left" Margin="22,307,0,0" Grid.Row="1" VerticalAlignment="Top" Width="105" Height="34" Click="update_Click" Grid.Column="1">
+            <Button.Style>
+                <Style>
+                    <Style.Triggers>
+                        <DataTrigger Binding="{Binding ElementName=phoneTextBox, Path=Text}" Value="">
+                            <Setter Property="Button.IsEnabled" Value="false"/>
+                        </DataTrigger>
+                        <DataTrigger Binding="{Binding ElementName=option, Path=SelectedIndex}" Value="0">
+                            <Setter Property="Button.IsEnabled" Value="False"/>
+                        </DataTrigger>
+                        <DataTrigger Binding="{Binding ElementName=option, Path=SelectedIndex}" Value="2">
+                            <Setter Property="Button.IsEnabled" Value="False"/>
+                        </DataTrigger>
+                        <DataTrigger Binding="{Binding ElementName=maxKidsTextBox, Path=Text}" Value="">
+                            <Setter Property="Button.IsEnabled" Value="false"/>
+                        </DataTrigger>
+                        <DataTrigger Binding="{Binding ElementName=monthlyRateTextBox, Path=Text}" Value="">
+                            <Setter Property="Button.IsEnabled" Value="false"/>
+                        </DataTrigger>
+                        <DataTrigger Binding="{Binding ElementName=idTextBox, Path=Text}" Value="">
+                            <Setter Property="Button.IsEnabled" Value="false"/>
+                        </DataTrigger>
+                        <DataTrigger Binding="{Binding ElementName=firstNameTextBox, Path=Text}" Value="">
+                            <Setter Property="Button.IsEnabled" Value="false"/>
+                        </DataTrigger>
+                        <DataTrigger Binding="{Binding ElementName=lastNameTextBox, Path=Text}" Value="">
+                            <Setter Property="Button.IsEnabled" Value="false"/>
+                        </DataTrigger>
+                        <DataTrigger Binding="{Binding ElementName=daysOffPropComboBox, Path=SelectedIndex}" Value="-1">
+                            <Setter Property="Button.IsEnabled" Value="false"/>
+                        </DataTrigger>
+                        <DataTrigger Binding="{Binding ElementName=maxAgeTextBox, Path=Text}" Value="">
+                            <Setter Property="Button.IsEnabled" Value="false"/>
+                        </DataTrigger>
+                        <DataTrigger Binding="{Binding ElementName=minAgeTextBox, Path=Text}" Value="">
+                            <Setter Property="Button.IsEnabled" Value="false"/>
+                        </DataTrigger>
+                        <DataTrigger Binding="{Binding ElementName=addressTextBox, Path=Text}" Value="">
+                            <Setter Property="Button.IsEnabled" Value="false"/>
+                        </DataTrigger>
+                    </Style.Triggers>
+                </Style>
+            </Button.Style>
+        </Button>
+
+        <Button x:Name="remove" Content="REMOVE" HorizontalAlignment="Left" Margin="21,369,0,0" Grid.Row="1" VerticalAlignment="Top" Width="106" Height="36" Click="remove_Click" Grid.Column="1">
+            <Button.Style>
+                <Style>
+                    <Style.Triggers>
+                        <DataTrigger Binding="{Binding ElementName=option, Path=SelectedIndex}" Value="0">
+                            <Setter Property="Button.IsEnabled" Value="False"/>
+                        </DataTrigger>
+                        <DataTrigger Binding="{Binding ElementName=option, Path=SelectedIndex}" Value="1">
+                            <Setter Property="Button.IsEnabled" Value="False"/>
+                        </DataTrigger>
+                        <DataTrigger Binding="{Binding ElementName=idComboBox, Path=SelectedIndex}" Value="-1">
+                            <Setter Property="Button.IsEnabled" Value="False"/>
+                        </DataTrigger>
+
+                    </Style.Triggers>
+                </Style>
+            </Button.Style>
+        </Button>
+        <Label Content="please select an option:" HorizontalAlignment="Left" VerticalAlignment="Stretch" FontFamily="Segoe Print" FontSize="22" Margin="0,42,0,628" Width="270" Grid.RowSpan="2"/>
+        <Image HorizontalAlignment="Left" Height="205" Margin="551,10,0,0" Grid.Row="1" VerticalAlignment="Top" Width="234" Source="images/nanny.jpg" Stretch="Fill" Grid.ColumnSpan="2"/>
+    </Grid>
+</Window>

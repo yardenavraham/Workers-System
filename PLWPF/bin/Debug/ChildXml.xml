@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CHILDREN>
+  <child>
+    <id>316261882</id>
+    <idMom>318208527</idMom>
+    <firstName>yarden</firstName>
+    <bDay>2014-04-03T00:00:00</bDay>
+    <ageChild>0</ageChild>
+    <isSpecial>true</isSpecial>
+    <specialNeeds>alergy to milk</specialNeeds>
+    <idAndName>316261882 yarden</idAndName>
+  </child>
+  <child>
+    <id>23445</id>
+    <idMom>318208527</idMom>
+    <firstName>Tamar</firstName>
+    <bDay>2017-05-30T00:00:00</bDay>
+    <ageChild>0</ageChild>
+    <isSpecial>false</isSpecial>
+    <specialNeeds>nothing</specialNeeds>
+    <idAndName>23445 Tamar</idAndName>
+  </child>
+  <child>
+    <id>3442</id>
+    <idMom>123456789</idMom>
+    <firstName>Rotem</firstName>
+    <bDay>2015-05-02T00:00:00</bDay>
+    <ageChild>0</ageChild>
+    <isSpecial>false</isSpecial>
+    <specialNeeds>nothing</specialNeeds>
+    <idAndName>3442 Rotem</idAndName>
+  </child>
+  <child>
+    <id>876579</id>
+    <idMom>123456789</idMom>
+    <firstName>Tom</firstName>
+    <bDay>2017-05-02T00:00:00</bDay>
+    <ageChild>0</ageChild>
+    <isSpecial>true</isSpecial>
+    <specialNeeds>milk</specialNeeds>
+    <idAndName>876579 Tom</idAndName>
+  </child>
+  <child>
+    <id>9809808</id>
+    <idMom>88689696</idMom>
+    <firstName>mor</firstName>
+    <bDay>2013-07-18T00:00:00</bDay>
+    <ageChild>0</ageChild>
+    <isSpecial>false</isSpecial>
+    <specialNeeds />
+    <idAndName>9809808 mor</idAndName>
+  </child>
+  <child>
+    <id>12456</id>
+    <idMom>3564674</idMom>
+    <firstName>rivka</firstName>
+    <bDay>2017-01-23T20:10:42.452782+02:00</bDay>
+    <ageChild>0</ageChild>
+    <isSpecial>false</isSpecial>
+    <specialNeeds />
+    <idAndName>12456 rivka</idAndName>
+  </child>
+</CHILDREN>

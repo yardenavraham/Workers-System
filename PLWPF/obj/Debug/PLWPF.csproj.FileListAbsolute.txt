@@ -1,0 +1,569 @@
+C:\Users\tamar\Documents\שנה ב'\סמסטר א'\מיני פרויקט במערכות חלונות\חלק  ב פרויקט\dotNet5778_Project01_8527_1882\PLWPF\bin\Debug\PLWPF.exe.config
+C:\Users\tamar\Documents\שנה ב'\סמסטר א'\מיני פרויקט במערכות חלונות\חלק  ב פרויקט\dotNet5778_Project01_8527_1882\PLWPF\bin\Debug\PLWPF.exe
+C:\Users\tamar\Documents\שנה ב'\סמסטר א'\מיני פרויקט במערכות חלונות\חלק  ב פרויקט\dotNet5778_Project01_8527_1882\PLWPF\bin\Debug\PLWPF.pdb
+C:\Users\tamar\Documents\שנה ב'\סמסטר א'\מיני פרויקט במערכות חלונות\חלק  ב פרויקט\dotNet5778_Project01_8527_1882\PLWPF\bin\Debug\BE.dll
+C:\Users\tamar\Documents\שנה ב'\סמסטר א'\מיני פרויקט במערכות חלונות\חלק  ב פרויקט\dotNet5778_Project01_8527_1882\PLWPF\bin\Debug\BL.dll
+C:\Users\tamar\Documents\שנה ב'\סמסטר א'\מיני פרויקט במערכות חלונות\חלק  ב פרויקט\dotNet5778_Project01_8527_1882\PLWPF\bin\Debug\DAL.dll
+C:\Users\tamar\Documents\שנה ב'\סמסטר א'\מיני פרויקט במערכות חלונות\חלק  ב פרויקט\dotNet5778_Project01_8527_1882\PLWPF\bin\Debug\DS.dll
+C:\Users\tamar\Documents\שנה ב'\סמסטר א'\מיני פרויקט במערכות חלונות\חלק  ב פרויקט\dotNet5778_Project01_8527_1882\PLWPF\bin\Debug\BE.pdb
+C:\Users\tamar\Documents\שנה ב'\סמסטר א'\מיני פרויקט במערכות חלונות\חלק  ב פרויקט\dotNet5778_Project01_8527_1882\PLWPF\bin\Debug\BL.pdb
+C:\Users\tamar\Documents\שנה ב'\סמסטר א'\מיני פרויקט במערכות חלונות\חלק  ב פרויקט\dotNet5778_Project01_8527_1882\PLWPF\bin\Debug\DAL.pdb
+C:\Users\tamar\Documents\שנה ב'\סמסטר א'\מיני פרויקט במערכות חלונות\חלק  ב פרויקט\dotNet5778_Project01_8527_1882\PLWPF\bin\Debug\DS.pdb
+C:\Users\tamar\Documents\שנה ב'\סמסטר א'\מיני פרויקט במערכות חלונות\חלק  ב פרויקט\dotNet5778_Project01_8527_1882\PLWPF\obj\Debug\PLWPF.csprojResolveAssemblyReference.cache
+C:\Users\tamar\Documents\שנה ב'\סמסטר א'\מיני פרויקט במערכות חלונות\חלק  ב פרויקט\dotNet5778_Project01_8527_1882\PLWPF\obj\Debug\ChildWindow.g.cs
+C:\Users\tamar\Documents\שנה ב'\סמסטר א'\מיני פרויקט במערכות חלונות\חלק  ב פרויקט\dotNet5778_Project01_8527_1882\PLWPF\obj\Debug\ContractWindow.g.cs
+C:\Users\tamar\Documents\שנה ב'\סמסטר א'\מיני פרויקט במערכות חלונות\חלק  ב פרויקט\dotNet5778_Project01_8527_1882\PLWPF\obj\Debug\MainWindow.g.cs
+C:\Users\tamar\Documents\שנה ב'\סמסטר א'\מיני פרויקט במערכות חלונות\חלק  ב פרויקט\dotNet5778_Project01_8527_1882\PLWPF\obj\Debug\MotherWindow.g.cs
+C:\Users\tamar\Documents\שנה ב'\סמסטר א'\מיני פרויקט במערכות חלונות\חלק  ב פרויקט\dotNet5778_Project01_8527_1882\PLWPF\obj\Debug\NannyWindow.g.cs
+C:\Users\tamar\Documents\שנה ב'\סמסטר א'\מיני פרויקט במערכות חלונות\חלק  ב פרויקט\dotNet5778_Project01_8527_1882\PLWPF\obj\Debug\QueriesWindow.g.cs
+C:\Users\tamar\Documents\שנה ב'\סמסטר א'\מיני פרויקט במערכות חלונות\חלק  ב פרויקט\dotNet5778_Project01_8527_1882\PLWPF\obj\Debug\App.g.cs
+C:\Users\tamar\Documents\שנה ב'\סמסטר א'\מיני פרויקט במערכות חלונות\חלק  ב פרויקט\dotNet5778_Project01_8527_1882\PLWPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\tamar\Documents\שנה ב'\סמסטר א'\מיני פרויקט במערכות חלונות\חלק  ב פרויקט\dotNet5778_Project01_8527_1882\PLWPF\obj\Debug\PLWPF_MarkupCompile.cache
+C:\Users\tamar\Documents\שנה ב'\סמסטר א'\מיני פרויקט במערכות חלונות\חלק  ב פרויקט\dotNet5778_Project01_8527_1882\PLWPF\obj\Debug\PLWPF_MarkupCompile.lref
+C:\Users\tamar\Documents\שנה ב'\סמסטר א'\מיני פרויקט במערכות חלונות\חלק  ב פרויקט\dotNet5778_Project01_8527_1882\PLWPF\obj\Debug\ChildWindow.baml
+C:\Users\tamar\Documents\שנה ב'\סמסטר א'\מיני פרויקט במערכות חלונות\חלק  ב פרויקט\dotNet5778_Project01_8527_1882\PLWPF\obj\Debug\ContractWindow.baml
+C:\Users\tamar\Documents\שנה ב'\סמסטר א'\מיני פרויקט במערכות חלונות\חלק  ב פרויקט\dotNet5778_Project01_8527_1882\PLWPF\obj\Debug\MainWindow.baml
+C:\Users\tamar\Documents\שנה ב'\סמסטר א'\מיני פרויקט במערכות חלונות\חלק  ב פרויקט\dotNet5778_Project01_8527_1882\PLWPF\obj\Debug\MotherWindow.baml
+C:\Users\tamar\Documents\שנה ב'\סמסטר א'\מיני פרויקט במערכות חלונות\חלק  ב פרויקט\dotNet5778_Project01_8527_1882\PLWPF\obj\Debug\NannyWindow.baml
+C:\Users\tamar\Documents\שנה ב'\סמסטר א'\מיני פרויקט במערכות חלונות\חלק  ב פרויקט\dotNet5778_Project01_8527_1882\PLWPF\obj\Debug\QueriesWindow.baml
+C:\Users\tamar\Documents\שנה ב'\סמסטר א'\מיני פרויקט במערכות חלונות\חלק  ב פרויקט\dotNet5778_Project01_8527_1882\PLWPF\obj\Debug\PLWPF.g.resources
+C:\Users\tamar\Documents\שנה ב'\סמסטר א'\מיני פרויקט במערכות חלונות\חלק  ב פרויקט\dotNet5778_Project01_8527_1882\PLWPF\obj\Debug\PLWPF.Properties.Resources.resources
+C:\Users\tamar\Documents\שנה ב'\סמסטר א'\מיני פרויקט במערכות חלונות\חלק  ב פרויקט\dotNet5778_Project01_8527_1882\PLWPF\obj\Debug\PLWPF.csproj.GenerateResource.Cache
+C:\Users\tamar\Documents\שנה ב'\סמסטר א'\מיני פרויקט במערכות חלונות\חלק  ב פרויקט\dotNet5778_Project01_8527_1882\PLWPF\obj\Debug\PLWPF.csproj.CoreCompileInputs.cache
+C:\Users\tamar\Documents\שנה ב'\סמסטר א'\מיני פרויקט במערכות חלונות\חלק  ב פרויקט\dotNet5778_Project01_8527_1882\PLWPF\obj\Debug\PLWPF.exe
+C:\Users\tamar\Documents\שנה ב'\סמסטר א'\מיני פרויקט במערכות חלונות\חלק  ב פרויקט\dotNet5778_Project01_8527_1882\PLWPF\obj\Debug\PLWPF.pdb
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק ב פרויקט\dotNet5778_Project01_8527_1882\dotNet5778_Project01_8527_1882\PLWPF\bin\Debug\PLWPF.exe.config
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק ב פרויקט\dotNet5778_Project01_8527_1882\dotNet5778_Project01_8527_1882\PLWPF\bin\Debug\PLWPF.exe
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק ב פרויקט\dotNet5778_Project01_8527_1882\dotNet5778_Project01_8527_1882\PLWPF\bin\Debug\PLWPF.pdb
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק ב פרויקט\dotNet5778_Project01_8527_1882\dotNet5778_Project01_8527_1882\PLWPF\bin\Debug\BE.dll
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק ב פרויקט\dotNet5778_Project01_8527_1882\dotNet5778_Project01_8527_1882\PLWPF\bin\Debug\BL.dll
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק ב פרויקט\dotNet5778_Project01_8527_1882\dotNet5778_Project01_8527_1882\PLWPF\bin\Debug\DAL.dll
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק ב פרויקט\dotNet5778_Project01_8527_1882\dotNet5778_Project01_8527_1882\PLWPF\bin\Debug\DS.dll
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק ב פרויקט\dotNet5778_Project01_8527_1882\dotNet5778_Project01_8527_1882\PLWPF\bin\Debug\BE.pdb
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק ב פרויקט\dotNet5778_Project01_8527_1882\dotNet5778_Project01_8527_1882\PLWPF\bin\Debug\BL.pdb
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק ב פרויקט\dotNet5778_Project01_8527_1882\dotNet5778_Project01_8527_1882\PLWPF\bin\Debug\DAL.pdb
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק ב פרויקט\dotNet5778_Project01_8527_1882\dotNet5778_Project01_8527_1882\PLWPF\bin\Debug\DS.pdb
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק ב פרויקט\dotNet5778_Project01_8527_1882\dotNet5778_Project01_8527_1882\PLWPF\obj\Debug\PLWPF.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק ב פרויקט\dotNet5778_Project01_8527_1882\dotNet5778_Project01_8527_1882\PLWPF\obj\Debug\ChildWindow.g.cs
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק ב פרויקט\dotNet5778_Project01_8527_1882\dotNet5778_Project01_8527_1882\PLWPF\obj\Debug\ContractWindow.g.cs
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק ב פרויקט\dotNet5778_Project01_8527_1882\dotNet5778_Project01_8527_1882\PLWPF\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק ב פרויקט\dotNet5778_Project01_8527_1882\dotNet5778_Project01_8527_1882\PLWPF\obj\Debug\MotherWindow.g.cs
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק ב פרויקט\dotNet5778_Project01_8527_1882\dotNet5778_Project01_8527_1882\PLWPF\obj\Debug\NannyWindow.g.cs
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק ב פרויקט\dotNet5778_Project01_8527_1882\dotNet5778_Project01_8527_1882\PLWPF\obj\Debug\QueriesWindow.g.cs
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק ב פרויקט\dotNet5778_Project01_8527_1882\dotNet5778_Project01_8527_1882\PLWPF\obj\Debug\App.g.cs
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק ב פרויקט\dotNet5778_Project01_8527_1882\dotNet5778_Project01_8527_1882\PLWPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק ב פרויקט\dotNet5778_Project01_8527_1882\dotNet5778_Project01_8527_1882\PLWPF\obj\Debug\PLWPF_MarkupCompile.cache
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק ב פרויקט\dotNet5778_Project01_8527_1882\dotNet5778_Project01_8527_1882\PLWPF\obj\Debug\PLWPF_MarkupCompile.lref
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק ב פרויקט\dotNet5778_Project01_8527_1882\dotNet5778_Project01_8527_1882\PLWPF\obj\Debug\ChildWindow.baml
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק ב פרויקט\dotNet5778_Project01_8527_1882\dotNet5778_Project01_8527_1882\PLWPF\obj\Debug\ContractWindow.baml
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק ב פרויקט\dotNet5778_Project01_8527_1882\dotNet5778_Project01_8527_1882\PLWPF\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק ב פרויקט\dotNet5778_Project01_8527_1882\dotNet5778_Project01_8527_1882\PLWPF\obj\Debug\MotherWindow.baml
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק ב פרויקט\dotNet5778_Project01_8527_1882\dotNet5778_Project01_8527_1882\PLWPF\obj\Debug\NannyWindow.baml
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק ב פרויקט\dotNet5778_Project01_8527_1882\dotNet5778_Project01_8527_1882\PLWPF\obj\Debug\QueriesWindow.baml
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק ב פרויקט\dotNet5778_Project01_8527_1882\dotNet5778_Project01_8527_1882\PLWPF\obj\Debug\PLWPF.g.resources
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק ב פרויקט\dotNet5778_Project01_8527_1882\dotNet5778_Project01_8527_1882\PLWPF\obj\Debug\PLWPF.Properties.Resources.resources
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק ב פרויקט\dotNet5778_Project01_8527_1882\dotNet5778_Project01_8527_1882\PLWPF\obj\Debug\PLWPF.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק ב פרויקט\dotNet5778_Project01_8527_1882\dotNet5778_Project01_8527_1882\PLWPF\obj\Debug\PLWPF.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק ב פרויקט\dotNet5778_Project01_8527_1882\dotNet5778_Project01_8527_1882\PLWPF\obj\Debug\PLWPF.exe
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק ב פרויקט\dotNet5778_Project01_8527_1882\dotNet5778_Project01_8527_1882\PLWPF\obj\Debug\PLWPF.pdb
+C:\Users\tashnerb\Downloads\dotNet5778_Project01_8527_1882\PLWPF\bin\Debug\PLWPF.exe.config
+C:\Users\tashnerb\Downloads\dotNet5778_Project01_8527_1882\PLWPF\bin\Debug\PLWPF.exe
+C:\Users\tashnerb\Downloads\dotNet5778_Project01_8527_1882\PLWPF\bin\Debug\PLWPF.pdb
+C:\Users\tashnerb\Downloads\dotNet5778_Project01_8527_1882\PLWPF\bin\Debug\BE.dll
+C:\Users\tashnerb\Downloads\dotNet5778_Project01_8527_1882\PLWPF\bin\Debug\BL.dll
+C:\Users\tashnerb\Downloads\dotNet5778_Project01_8527_1882\PLWPF\bin\Debug\DAL.dll
+C:\Users\tashnerb\Downloads\dotNet5778_Project01_8527_1882\PLWPF\bin\Debug\DS.dll
+C:\Users\tashnerb\Downloads\dotNet5778_Project01_8527_1882\PLWPF\bin\Debug\BE.pdb
+C:\Users\tashnerb\Downloads\dotNet5778_Project01_8527_1882\PLWPF\bin\Debug\BL.pdb
+C:\Users\tashnerb\Downloads\dotNet5778_Project01_8527_1882\PLWPF\bin\Debug\DAL.pdb
+C:\Users\tashnerb\Downloads\dotNet5778_Project01_8527_1882\PLWPF\bin\Debug\DS.pdb
+C:\Users\tashnerb\Downloads\dotNet5778_Project01_8527_1882\PLWPF\obj\Debug\PLWPF.csprojResolveAssemblyReference.cache
+C:\Users\tashnerb\Downloads\dotNet5778_Project01_8527_1882\PLWPF\obj\Debug\ChildWindow.g.cs
+C:\Users\tashnerb\Downloads\dotNet5778_Project01_8527_1882\PLWPF\obj\Debug\ContractWindow.g.cs
+C:\Users\tashnerb\Downloads\dotNet5778_Project01_8527_1882\PLWPF\obj\Debug\MainWindow.g.cs
+C:\Users\tashnerb\Downloads\dotNet5778_Project01_8527_1882\PLWPF\obj\Debug\MotherWindow.g.cs
+C:\Users\tashnerb\Downloads\dotNet5778_Project01_8527_1882\PLWPF\obj\Debug\NannyWindow.g.cs
+C:\Users\tashnerb\Downloads\dotNet5778_Project01_8527_1882\PLWPF\obj\Debug\QueriesWindow.g.cs
+C:\Users\tashnerb\Downloads\dotNet5778_Project01_8527_1882\PLWPF\obj\Debug\App.g.cs
+C:\Users\tashnerb\Downloads\dotNet5778_Project01_8527_1882\PLWPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\tashnerb\Downloads\dotNet5778_Project01_8527_1882\PLWPF\obj\Debug\PLWPF_MarkupCompile.cache
+C:\Users\tashnerb\Downloads\dotNet5778_Project01_8527_1882\PLWPF\obj\Debug\PLWPF_MarkupCompile.lref
+C:\Users\tashnerb\Downloads\dotNet5778_Project01_8527_1882\PLWPF\obj\Debug\ChildWindow.baml
+C:\Users\tashnerb\Downloads\dotNet5778_Project01_8527_1882\PLWPF\obj\Debug\ContractWindow.baml
+C:\Users\tashnerb\Downloads\dotNet5778_Project01_8527_1882\PLWPF\obj\Debug\MainWindow.baml
+C:\Users\tashnerb\Downloads\dotNet5778_Project01_8527_1882\PLWPF\obj\Debug\MotherWindow.baml
+C:\Users\tashnerb\Downloads\dotNet5778_Project01_8527_1882\PLWPF\obj\Debug\NannyWindow.baml
+C:\Users\tashnerb\Downloads\dotNet5778_Project01_8527_1882\PLWPF\obj\Debug\QueriesWindow.baml
+C:\Users\tashnerb\Downloads\dotNet5778_Project01_8527_1882\PLWPF\obj\Debug\PLWPF.g.resources
+C:\Users\tashnerb\Downloads\dotNet5778_Project01_8527_1882\PLWPF\obj\Debug\PLWPF.Properties.Resources.resources
+C:\Users\tashnerb\Downloads\dotNet5778_Project01_8527_1882\PLWPF\obj\Debug\PLWPF.csproj.GenerateResource.Cache
+C:\Users\tashnerb\Downloads\dotNet5778_Project01_8527_1882\PLWPF\obj\Debug\PLWPF.exe
+C:\Users\tashnerb\Downloads\dotNet5778_Project01_8527_1882\PLWPF\obj\Debug\PLWPF.pdb
+C:\Users\tashnerb\Documents\dotNet5778_Project01_8527_1882\PLWPF\bin\Debug\PLWPF.exe.config
+C:\Users\tashnerb\Documents\dotNet5778_Project01_8527_1882\PLWPF\bin\Debug\PLWPF.exe
+C:\Users\tashnerb\Documents\dotNet5778_Project01_8527_1882\PLWPF\bin\Debug\PLWPF.pdb
+C:\Users\tashnerb\Documents\dotNet5778_Project01_8527_1882\PLWPF\bin\Debug\BE.dll
+C:\Users\tashnerb\Documents\dotNet5778_Project01_8527_1882\PLWPF\bin\Debug\BL.dll
+C:\Users\tashnerb\Documents\dotNet5778_Project01_8527_1882\PLWPF\bin\Debug\DAL.dll
+C:\Users\tashnerb\Documents\dotNet5778_Project01_8527_1882\PLWPF\bin\Debug\DS.dll
+C:\Users\tashnerb\Documents\dotNet5778_Project01_8527_1882\PLWPF\bin\Debug\BE.pdb
+C:\Users\tashnerb\Documents\dotNet5778_Project01_8527_1882\PLWPF\bin\Debug\BL.pdb
+C:\Users\tashnerb\Documents\dotNet5778_Project01_8527_1882\PLWPF\bin\Debug\DAL.pdb
+C:\Users\tashnerb\Documents\dotNet5778_Project01_8527_1882\PLWPF\bin\Debug\DS.pdb
+C:\Users\tashnerb\Documents\dotNet5778_Project01_8527_1882\PLWPF\obj\Debug\PLWPF.csprojResolveAssemblyReference.cache
+C:\Users\tashnerb\Documents\dotNet5778_Project01_8527_1882\PLWPF\obj\Debug\ChildWindow.g.cs
+C:\Users\tashnerb\Documents\dotNet5778_Project01_8527_1882\PLWPF\obj\Debug\ContractWindow.g.cs
+C:\Users\tashnerb\Documents\dotNet5778_Project01_8527_1882\PLWPF\obj\Debug\MainWindow.g.cs
+C:\Users\tashnerb\Documents\dotNet5778_Project01_8527_1882\PLWPF\obj\Debug\MotherWindow.g.cs
+C:\Users\tashnerb\Documents\dotNet5778_Project01_8527_1882\PLWPF\obj\Debug\NannyWindow.g.cs
+C:\Users\tashnerb\Documents\dotNet5778_Project01_8527_1882\PLWPF\obj\Debug\QueriesWindow.g.cs
+C:\Users\tashnerb\Documents\dotNet5778_Project01_8527_1882\PLWPF\obj\Debug\App.g.cs
+C:\Users\tashnerb\Documents\dotNet5778_Project01_8527_1882\PLWPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\tashnerb\Documents\dotNet5778_Project01_8527_1882\PLWPF\obj\Debug\PLWPF_MarkupCompile.cache
+C:\Users\tashnerb\Documents\dotNet5778_Project01_8527_1882\PLWPF\obj\Debug\PLWPF_MarkupCompile.lref
+C:\Users\tashnerb\Documents\dotNet5778_Project01_8527_1882\PLWPF\obj\Debug\ChildWindow.baml
+C:\Users\tashnerb\Documents\dotNet5778_Project01_8527_1882\PLWPF\obj\Debug\ContractWindow.baml
+C:\Users\tashnerb\Documents\dotNet5778_Project01_8527_1882\PLWPF\obj\Debug\MainWindow.baml
+C:\Users\tashnerb\Documents\dotNet5778_Project01_8527_1882\PLWPF\obj\Debug\MotherWindow.baml
+C:\Users\tashnerb\Documents\dotNet5778_Project01_8527_1882\PLWPF\obj\Debug\NannyWindow.baml
+C:\Users\tashnerb\Documents\dotNet5778_Project01_8527_1882\PLWPF\obj\Debug\QueriesWindow.baml
+C:\Users\tashnerb\Documents\dotNet5778_Project01_8527_1882\PLWPF\obj\Debug\PLWPF.g.resources
+C:\Users\tashnerb\Documents\dotNet5778_Project01_8527_1882\PLWPF\obj\Debug\PLWPF.Properties.Resources.resources
+C:\Users\tashnerb\Documents\dotNet5778_Project01_8527_1882\PLWPF\obj\Debug\PLWPF.csproj.GenerateResource.Cache
+C:\Users\tashnerb\Documents\dotNet5778_Project01_8527_1882\PLWPF\obj\Debug\PLWPF.exe
+C:\Users\tashnerb\Documents\dotNet5778_Project01_8527_1882\PLWPF\obj\Debug\PLWPF.pdb
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק ב פרויקט\dotNet5778_Project01_8527_1882\PLWPF\obj\Debug\PLWPF.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק ב פרויקט\dotNet5778_Project01_8527_1882\PLWPF\obj\Debug\ChildWindow.g.cs
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק ב פרויקט\dotNet5778_Project01_8527_1882\PLWPF\obj\Debug\ContractWindow.g.cs
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק ב פרויקט\dotNet5778_Project01_8527_1882\PLWPF\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק ב פרויקט\dotNet5778_Project01_8527_1882\PLWPF\obj\Debug\MotherWindow.g.cs
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק ב פרויקט\dotNet5778_Project01_8527_1882\PLWPF\obj\Debug\NannyWindow.g.cs
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק ב פרויקט\dotNet5778_Project01_8527_1882\PLWPF\obj\Debug\QueriesWindow.g.cs
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק ב פרויקט\dotNet5778_Project01_8527_1882\PLWPF\obj\Debug\App.g.cs
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק ב פרויקט\dotNet5778_Project01_8527_1882\PLWPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק ב פרויקט\dotNet5778_Project01_8527_1882\PLWPF\obj\Debug\PLWPF_MarkupCompile.cache
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק ב פרויקט\dotNet5778_Project01_8527_1882\PLWPF\obj\Debug\PLWPF_MarkupCompile.lref
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק ב פרויקט\dotNet5778_Project01_8527_1882\PLWPF\obj\Debug\PLWPF.exe
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק ב פרויקט\dotNet5778_Project01_8527_1882\PLWPF\obj\Debug\PLWPF.pdb
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק ב פרויקט\dotNet5778_Project01_8527_1882\PLWPF\bin\Debug\PLWPF.exe.config
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק ב פרויקט\dotNet5778_Project01_8527_1882\PLWPF\bin\Debug\PLWPF.exe
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק ב פרויקט\dotNet5778_Project01_8527_1882\PLWPF\bin\Debug\PLWPF.pdb
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק ב פרויקט\dotNet5778_Project01_8527_1882\PLWPF\bin\Debug\BE.dll
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק ב פרויקט\dotNet5778_Project01_8527_1882\PLWPF\bin\Debug\BL.dll
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק ב פרויקט\dotNet5778_Project01_8527_1882\PLWPF\bin\Debug\DAL.dll
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק ב פרויקט\dotNet5778_Project01_8527_1882\PLWPF\bin\Debug\DS.dll
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק ב פרויקט\dotNet5778_Project01_8527_1882\PLWPF\bin\Debug\BE.pdb
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק ב פרויקט\dotNet5778_Project01_8527_1882\PLWPF\bin\Debug\BL.pdb
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק ב פרויקט\dotNet5778_Project01_8527_1882\PLWPF\bin\Debug\DAL.pdb
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק ב פרויקט\dotNet5778_Project01_8527_1882\PLWPF\bin\Debug\DS.pdb
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק ב פרויקט\dotNet5778_Project01_8527_1882\PLWPF\obj\Debug\ChildWindow.baml
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק ב פרויקט\dotNet5778_Project01_8527_1882\PLWPF\obj\Debug\ContractWindow.baml
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק ב פרויקט\dotNet5778_Project01_8527_1882\PLWPF\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק ב פרויקט\dotNet5778_Project01_8527_1882\PLWPF\obj\Debug\MotherWindow.baml
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק ב פרויקט\dotNet5778_Project01_8527_1882\PLWPF\obj\Debug\NannyWindow.baml
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק ב פרויקט\dotNet5778_Project01_8527_1882\PLWPF\obj\Debug\QueriesWindow.baml
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק ב פרויקט\dotNet5778_Project01_8527_1882\PLWPF\obj\Debug\PLWPF.g.resources
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק ב פרויקט\dotNet5778_Project01_8527_1882\PLWPF\obj\Debug\PLWPF.Properties.Resources.resources
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק ב פרויקט\dotNet5778_Project01_8527_1882\PLWPF\obj\Debug\PLWPF.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק ב פרויקט\dotNet5778_Project01_8527_1882\PLWPF\obj\Debug\PLWPF.csproj.CoreCompileInputs.cache
+C:\Users\tashnerb\Downloads\PLWPF\bin\Debug\PLWPF.exe.config
+C:\Users\tashnerb\Downloads\PLWPF\bin\Debug\PLWPF.exe
+C:\Users\tashnerb\Downloads\PLWPF\bin\Debug\PLWPF.pdb
+C:\Users\tashnerb\Downloads\PLWPF\bin\Debug\BE.dll
+C:\Users\tashnerb\Downloads\PLWPF\bin\Debug\BL.dll
+C:\Users\tashnerb\Downloads\PLWPF\bin\Debug\DAL.dll
+C:\Users\tashnerb\Downloads\PLWPF\bin\Debug\DS.dll
+C:\Users\tashnerb\Downloads\PLWPF\bin\Debug\BE.pdb
+C:\Users\tashnerb\Downloads\PLWPF\bin\Debug\BL.pdb
+C:\Users\tashnerb\Downloads\PLWPF\bin\Debug\DAL.pdb
+C:\Users\tashnerb\Downloads\PLWPF\bin\Debug\DS.pdb
+C:\Users\tashnerb\Downloads\PLWPF\obj\Debug\PLWPF.csprojResolveAssemblyReference.cache
+C:\Users\tashnerb\Downloads\PLWPF\obj\Debug\ChildWindow.g.cs
+C:\Users\tashnerb\Downloads\PLWPF\obj\Debug\ContractWindow.g.cs
+C:\Users\tashnerb\Downloads\PLWPF\obj\Debug\MainWindow.g.cs
+C:\Users\tashnerb\Downloads\PLWPF\obj\Debug\MotherWindow.g.cs
+C:\Users\tashnerb\Downloads\PLWPF\obj\Debug\NannyWindow.g.cs
+C:\Users\tashnerb\Downloads\PLWPF\obj\Debug\QueriesWindow.g.cs
+C:\Users\tashnerb\Downloads\PLWPF\obj\Debug\App.g.cs
+C:\Users\tashnerb\Downloads\PLWPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\tashnerb\Downloads\PLWPF\obj\Debug\PLWPF_MarkupCompile.cache
+C:\Users\tashnerb\Downloads\PLWPF\obj\Debug\PLWPF_MarkupCompile.lref
+C:\Users\tashnerb\Downloads\PLWPF\obj\Debug\ChildWindow.baml
+C:\Users\tashnerb\Downloads\PLWPF\obj\Debug\ContractWindow.baml
+C:\Users\tashnerb\Downloads\PLWPF\obj\Debug\MainWindow.baml
+C:\Users\tashnerb\Downloads\PLWPF\obj\Debug\MotherWindow.baml
+C:\Users\tashnerb\Downloads\PLWPF\obj\Debug\NannyWindow.baml
+C:\Users\tashnerb\Downloads\PLWPF\obj\Debug\QueriesWindow.baml
+C:\Users\tashnerb\Downloads\PLWPF\obj\Debug\PLWPF.g.resources
+C:\Users\tashnerb\Downloads\PLWPF\obj\Debug\PLWPF.Properties.Resources.resources
+C:\Users\tashnerb\Downloads\PLWPF\obj\Debug\PLWPF.csproj.GenerateResource.Cache
+C:\Users\tashnerb\Downloads\PLWPF\obj\Debug\PLWPF.exe
+C:\Users\tashnerb\Downloads\PLWPF\obj\Debug\PLWPF.pdb
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק ב פרויקט\PLWPF\bin\Debug\PLWPF.exe.config
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק ב פרויקט\PLWPF\bin\Debug\PLWPF.exe
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק ב פרויקט\PLWPF\bin\Debug\PLWPF.pdb
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק ב פרויקט\PLWPF\bin\Debug\BE.dll
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק ב פרויקט\PLWPF\bin\Debug\BL.dll
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק ב פרויקט\PLWPF\bin\Debug\DAL.dll
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק ב פרויקט\PLWPF\bin\Debug\DS.dll
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק ב פרויקט\PLWPF\bin\Debug\BE.pdb
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק ב פרויקט\PLWPF\bin\Debug\BL.pdb
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק ב פרויקט\PLWPF\bin\Debug\DAL.pdb
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק ב פרויקט\PLWPF\bin\Debug\DS.pdb
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק ב פרויקט\PLWPF\obj\Debug\PLWPF.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק ב פרויקט\PLWPF\obj\Debug\ChildWindow.g.cs
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק ב פרויקט\PLWPF\obj\Debug\ContractWindow.g.cs
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק ב פרויקט\PLWPF\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק ב פרויקט\PLWPF\obj\Debug\MotherWindow.g.cs
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק ב פרויקט\PLWPF\obj\Debug\NannyWindow.g.cs
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק ב פרויקט\PLWPF\obj\Debug\QueriesWindow.g.cs
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק ב פרויקט\PLWPF\obj\Debug\App.g.cs
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק ב פרויקט\PLWPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק ב פרויקט\PLWPF\obj\Debug\PLWPF_MarkupCompile.cache
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק ב פרויקט\PLWPF\obj\Debug\PLWPF_MarkupCompile.lref
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק ב פרויקט\PLWPF\obj\Debug\ChildWindow.baml
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק ב פרויקט\PLWPF\obj\Debug\ContractWindow.baml
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק ב פרויקט\PLWPF\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק ב פרויקט\PLWPF\obj\Debug\MotherWindow.baml
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק ב פרויקט\PLWPF\obj\Debug\NannyWindow.baml
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק ב פרויקט\PLWPF\obj\Debug\QueriesWindow.baml
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק ב פרויקט\PLWPF\obj\Debug\PLWPF.g.resources
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק ב פרויקט\PLWPF\obj\Debug\PLWPF.Properties.Resources.resources
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק ב פרויקט\PLWPF\obj\Debug\PLWPF.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק ב פרויקט\PLWPF\obj\Debug\PLWPF.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק ב פרויקט\PLWPF\obj\Debug\PLWPF.exe
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק ב פרויקט\PLWPF\obj\Debug\PLWPF.pdb
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק ב פרויקט\PLWPF\obj\Debug\Queries_windows\ChildUserControl.g.cs
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק ב פרויקט\PLWPF\obj\Debug\Queries_windows\ChildUserControl.baml
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק ב פרויקט\PLWPF\obj\Debug\Queries_windows\AllChildrenNoNanny.g.cs
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק ב פרויקט\PLWPF\obj\Debug\Queries_windows\AllChildrenNoNanny.baml
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק ב פרויקט\PLWPF\obj\Debug\Queries_windows\BestNannies.g.cs
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק ב פרויקט\PLWPF\obj\Debug\Queries_windows\NannyUserControl.g.cs
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק ב פרויקט\PLWPF\obj\Debug\Queries_windows\BestNannies.baml
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק ב פרויקט\PLWPF\obj\Debug\Queries_windows\NannyUserControl.baml
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק ב פרויקט\PLWPF\obj\Debug\Queries_windows\nanniesByAgeChildrenUserControl.g.cs
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק ב פרויקט\PLWPF\obj\Debug\Queries_windows\nanniesByAgeChildrenUserControl.baml
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק ב פרויקט\PLWPF\bin\Debug\GoogleMapsApi.dll
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק ב פרויקט\PLWPF\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק ב פרויקט\PLWPF\obj\Debug\Queries_windows\PlaceAutoCompleteUC.g.cs
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק ב פרויקט\PLWPF\obj\Debug\Queries_windows\PlaceAutoCompleteUC.baml
+C:\Users\barilan\Downloads\dotNet5778_Project03_8527_1882\PLWPF\bin\Debug\PLWPF.exe.config
+C:\Users\barilan\Downloads\dotNet5778_Project03_8527_1882\PLWPF\bin\Debug\PLWPF.exe
+C:\Users\barilan\Downloads\dotNet5778_Project03_8527_1882\PLWPF\bin\Debug\PLWPF.pdb
+C:\Users\barilan\Downloads\dotNet5778_Project03_8527_1882\PLWPF\bin\Debug\BE.dll
+C:\Users\barilan\Downloads\dotNet5778_Project03_8527_1882\PLWPF\bin\Debug\BL.dll
+C:\Users\barilan\Downloads\dotNet5778_Project03_8527_1882\PLWPF\bin\Debug\GoogleMapsApi.dll
+C:\Users\barilan\Downloads\dotNet5778_Project03_8527_1882\PLWPF\bin\Debug\DAL.dll
+C:\Users\barilan\Downloads\dotNet5778_Project03_8527_1882\PLWPF\bin\Debug\Newtonsoft.Json.dll
+C:\Users\barilan\Downloads\dotNet5778_Project03_8527_1882\PLWPF\bin\Debug\DS.dll
+C:\Users\barilan\Downloads\dotNet5778_Project03_8527_1882\PLWPF\bin\Debug\BE.pdb
+C:\Users\barilan\Downloads\dotNet5778_Project03_8527_1882\PLWPF\bin\Debug\BL.pdb
+C:\Users\barilan\Downloads\dotNet5778_Project03_8527_1882\PLWPF\bin\Debug\DAL.pdb
+C:\Users\barilan\Downloads\dotNet5778_Project03_8527_1882\PLWPF\bin\Debug\DS.pdb
+C:\Users\barilan\Downloads\dotNet5778_Project03_8527_1882\PLWPF\obj\Debug\PLWPF.csprojResolveAssemblyReference.cache
+C:\Users\barilan\Downloads\dotNet5778_Project03_8527_1882\PLWPF\obj\Debug\ChildWindow.g.cs
+C:\Users\barilan\Downloads\dotNet5778_Project03_8527_1882\PLWPF\obj\Debug\ContractWindow.g.cs
+C:\Users\barilan\Downloads\dotNet5778_Project03_8527_1882\PLWPF\obj\Debug\MainWindow.g.cs
+C:\Users\barilan\Downloads\dotNet5778_Project03_8527_1882\PLWPF\obj\Debug\MotherWindow.g.cs
+C:\Users\barilan\Downloads\dotNet5778_Project03_8527_1882\PLWPF\obj\Debug\NannyWindow.g.cs
+C:\Users\barilan\Downloads\dotNet5778_Project03_8527_1882\PLWPF\obj\Debug\QueriesWindow.g.cs
+C:\Users\barilan\Downloads\dotNet5778_Project03_8527_1882\PLWPF\obj\Debug\Queries_windows\AllChildrenNoNanny.g.cs
+C:\Users\barilan\Downloads\dotNet5778_Project03_8527_1882\PLWPF\obj\Debug\Queries_windows\BestNannies.g.cs
+C:\Users\barilan\Downloads\dotNet5778_Project03_8527_1882\PLWPF\obj\Debug\Queries_windows\ChildUserControl.g.cs
+C:\Users\barilan\Downloads\dotNet5778_Project03_8527_1882\PLWPF\obj\Debug\Queries_windows\nanniesByAgeChildrenUserControl.g.cs
+C:\Users\barilan\Downloads\dotNet5778_Project03_8527_1882\PLWPF\obj\Debug\Queries_windows\NannyUserControl.g.cs
+C:\Users\barilan\Downloads\dotNet5778_Project03_8527_1882\PLWPF\obj\Debug\Queries_windows\PlaceAutoCompleteUC.g.cs
+C:\Users\barilan\Downloads\dotNet5778_Project03_8527_1882\PLWPF\obj\Debug\App.g.cs
+C:\Users\barilan\Downloads\dotNet5778_Project03_8527_1882\PLWPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\barilan\Downloads\dotNet5778_Project03_8527_1882\PLWPF\obj\Debug\PLWPF_MarkupCompile.cache
+C:\Users\barilan\Downloads\dotNet5778_Project03_8527_1882\PLWPF\obj\Debug\PLWPF_MarkupCompile.lref
+C:\Users\barilan\Downloads\dotNet5778_Project03_8527_1882\PLWPF\obj\Debug\ChildWindow.baml
+C:\Users\barilan\Downloads\dotNet5778_Project03_8527_1882\PLWPF\obj\Debug\ContractWindow.baml
+C:\Users\barilan\Downloads\dotNet5778_Project03_8527_1882\PLWPF\obj\Debug\MainWindow.baml
+C:\Users\barilan\Downloads\dotNet5778_Project03_8527_1882\PLWPF\obj\Debug\MotherWindow.baml
+C:\Users\barilan\Downloads\dotNet5778_Project03_8527_1882\PLWPF\obj\Debug\NannyWindow.baml
+C:\Users\barilan\Downloads\dotNet5778_Project03_8527_1882\PLWPF\obj\Debug\QueriesWindow.baml
+C:\Users\barilan\Downloads\dotNet5778_Project03_8527_1882\PLWPF\obj\Debug\Queries_windows\AllChildrenNoNanny.baml
+C:\Users\barilan\Downloads\dotNet5778_Project03_8527_1882\PLWPF\obj\Debug\Queries_windows\BestNannies.baml
+C:\Users\barilan\Downloads\dotNet5778_Project03_8527_1882\PLWPF\obj\Debug\Queries_windows\ChildUserControl.baml
+C:\Users\barilan\Downloads\dotNet5778_Project03_8527_1882\PLWPF\obj\Debug\Queries_windows\nanniesByAgeChildrenUserControl.baml
+C:\Users\barilan\Downloads\dotNet5778_Project03_8527_1882\PLWPF\obj\Debug\Queries_windows\NannyUserControl.baml
+C:\Users\barilan\Downloads\dotNet5778_Project03_8527_1882\PLWPF\obj\Debug\Queries_windows\PlaceAutoCompleteUC.baml
+C:\Users\barilan\Downloads\dotNet5778_Project03_8527_1882\PLWPF\obj\Debug\PLWPF.g.resources
+C:\Users\barilan\Downloads\dotNet5778_Project03_8527_1882\PLWPF\obj\Debug\PLWPF.Properties.Resources.resources
+C:\Users\barilan\Downloads\dotNet5778_Project03_8527_1882\PLWPF\obj\Debug\PLWPF.csproj.GenerateResource.Cache
+C:\Users\barilan\Downloads\dotNet5778_Project03_8527_1882\PLWPF\obj\Debug\PLWPF.exe
+C:\Users\barilan\Downloads\dotNet5778_Project03_8527_1882\PLWPF\obj\Debug\PLWPF.pdb
+C:\Users\barilan\Downloads\dotNet5778_Project03_8527_1882\PLWPF\obj\Debug\Queries_windows\contractUserControl.g.cs
+C:\Users\barilan\Downloads\dotNet5778_Project03_8527_1882\PLWPF\obj\Debug\Queries_windows\contractUserControl.baml
+C:\Users\barilan\Downloads\dotNet5778_Project03_8527_1882\PLWPF\obj\Debug\Queries_windows\contractsByDistanceUserControl.g.cs
+C:\Users\barilan\Downloads\dotNet5778_Project03_8527_1882\PLWPF\obj\Debug\Queries_windows\contractsByDistanceUserControl.baml
+C:\Users\tamar\Documents\שנה ב'\סמסטר א'\מיני פרויקט במערכות חלונות\סופי\dotNet5778_Project03_8527_1882\PLWPF\bin\Debug\PLWPF.exe.config
+C:\Users\tamar\Documents\שנה ב'\סמסטר א'\מיני פרויקט במערכות חלונות\סופי\dotNet5778_Project03_8527_1882\PLWPF\bin\Debug\PLWPF.exe
+C:\Users\tamar\Documents\שנה ב'\סמסטר א'\מיני פרויקט במערכות חלונות\סופי\dotNet5778_Project03_8527_1882\PLWPF\bin\Debug\PLWPF.pdb
+C:\Users\tamar\Documents\שנה ב'\סמסטר א'\מיני פרויקט במערכות חלונות\סופי\dotNet5778_Project03_8527_1882\PLWPF\bin\Debug\BE.dll
+C:\Users\tamar\Documents\שנה ב'\סמסטר א'\מיני פרויקט במערכות חלונות\סופי\dotNet5778_Project03_8527_1882\PLWPF\bin\Debug\BL.dll
+C:\Users\tamar\Documents\שנה ב'\סמסטר א'\מיני פרויקט במערכות חלונות\סופי\dotNet5778_Project03_8527_1882\PLWPF\bin\Debug\GoogleMapsApi.dll
+C:\Users\tamar\Documents\שנה ב'\סמסטר א'\מיני פרויקט במערכות חלונות\סופי\dotNet5778_Project03_8527_1882\PLWPF\bin\Debug\DAL.dll
+C:\Users\tamar\Documents\שנה ב'\סמסטר א'\מיני פרויקט במערכות חלונות\סופי\dotNet5778_Project03_8527_1882\PLWPF\bin\Debug\Newtonsoft.Json.dll
+C:\Users\tamar\Documents\שנה ב'\סמסטר א'\מיני פרויקט במערכות חלונות\סופי\dotNet5778_Project03_8527_1882\PLWPF\bin\Debug\DS.dll
+C:\Users\tamar\Documents\שנה ב'\סמסטר א'\מיני פרויקט במערכות חלונות\סופי\dotNet5778_Project03_8527_1882\PLWPF\bin\Debug\BE.pdb
+C:\Users\tamar\Documents\שנה ב'\סמסטר א'\מיני פרויקט במערכות חלונות\סופי\dotNet5778_Project03_8527_1882\PLWPF\bin\Debug\BL.pdb
+C:\Users\tamar\Documents\שנה ב'\סמסטר א'\מיני פרויקט במערכות חלונות\סופי\dotNet5778_Project03_8527_1882\PLWPF\bin\Debug\DAL.pdb
+C:\Users\tamar\Documents\שנה ב'\סמסטר א'\מיני פרויקט במערכות חלונות\סופי\dotNet5778_Project03_8527_1882\PLWPF\bin\Debug\DS.pdb
+C:\Users\tamar\Documents\שנה ב'\סמסטר א'\מיני פרויקט במערכות חלונות\סופי\dotNet5778_Project03_8527_1882\PLWPF\obj\Debug\PLWPF.csprojResolveAssemblyReference.cache
+C:\Users\tamar\Documents\שנה ב'\סמסטר א'\מיני פרויקט במערכות חלונות\סופי\dotNet5778_Project03_8527_1882\PLWPF\obj\Debug\ChildWindow.g.cs
+C:\Users\tamar\Documents\שנה ב'\סמסטר א'\מיני פרויקט במערכות חלונות\סופי\dotNet5778_Project03_8527_1882\PLWPF\obj\Debug\ContractWindow.g.cs
+C:\Users\tamar\Documents\שנה ב'\סמסטר א'\מיני פרויקט במערכות חלונות\סופי\dotNet5778_Project03_8527_1882\PLWPF\obj\Debug\MainWindow.g.cs
+C:\Users\tamar\Documents\שנה ב'\סמסטר א'\מיני פרויקט במערכות חלונות\סופי\dotNet5778_Project03_8527_1882\PLWPF\obj\Debug\MotherWindow.g.cs
+C:\Users\tamar\Documents\שנה ב'\סמסטר א'\מיני פרויקט במערכות חלונות\סופי\dotNet5778_Project03_8527_1882\PLWPF\obj\Debug\NannyWindow.g.cs
+C:\Users\tamar\Documents\שנה ב'\סמסטר א'\מיני פרויקט במערכות חלונות\סופי\dotNet5778_Project03_8527_1882\PLWPF\obj\Debug\QueriesWindow.g.cs
+C:\Users\tamar\Documents\שנה ב'\סמסטר א'\מיני פרויקט במערכות חלונות\סופי\dotNet5778_Project03_8527_1882\PLWPF\obj\Debug\Queries_windows\AllChildrenNoNanny.g.cs
+C:\Users\tamar\Documents\שנה ב'\סמסטר א'\מיני פרויקט במערכות חלונות\סופי\dotNet5778_Project03_8527_1882\PLWPF\obj\Debug\Queries_windows\BestNannies.g.cs
+C:\Users\tamar\Documents\שנה ב'\סמסטר א'\מיני פרויקט במערכות חלונות\סופי\dotNet5778_Project03_8527_1882\PLWPF\obj\Debug\Queries_windows\ChildUserControl.g.cs
+C:\Users\tamar\Documents\שנה ב'\סמסטר א'\מיני פרויקט במערכות חלונות\סופי\dotNet5778_Project03_8527_1882\PLWPF\obj\Debug\Queries_windows\contractsByDistanceUserControl.g.cs
+C:\Users\tamar\Documents\שנה ב'\סמסטר א'\מיני פרויקט במערכות חלונות\סופי\dotNet5778_Project03_8527_1882\PLWPF\obj\Debug\Queries_windows\contractUserControl.g.cs
+C:\Users\tamar\Documents\שנה ב'\סמסטר א'\מיני פרויקט במערכות חלונות\סופי\dotNet5778_Project03_8527_1882\PLWPF\obj\Debug\Queries_windows\nanniesByAgeChildrenUserControl.g.cs
+C:\Users\tamar\Documents\שנה ב'\סמסטר א'\מיני פרויקט במערכות חלונות\סופי\dotNet5778_Project03_8527_1882\PLWPF\obj\Debug\Queries_windows\NannyUserControl.g.cs
+C:\Users\tamar\Documents\שנה ב'\סמסטר א'\מיני פרויקט במערכות חלונות\סופי\dotNet5778_Project03_8527_1882\PLWPF\obj\Debug\Queries_windows\PlaceAutoCompleteUC.g.cs
+C:\Users\tamar\Documents\שנה ב'\סמסטר א'\מיני פרויקט במערכות חלונות\סופי\dotNet5778_Project03_8527_1882\PLWPF\obj\Debug\App.g.cs
+C:\Users\tamar\Documents\שנה ב'\סמסטר א'\מיני פרויקט במערכות חלונות\סופי\dotNet5778_Project03_8527_1882\PLWPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\tamar\Documents\שנה ב'\סמסטר א'\מיני פרויקט במערכות חלונות\סופי\dotNet5778_Project03_8527_1882\PLWPF\obj\Debug\PLWPF_MarkupCompile.cache
+C:\Users\tamar\Documents\שנה ב'\סמסטר א'\מיני פרויקט במערכות חלונות\סופי\dotNet5778_Project03_8527_1882\PLWPF\obj\Debug\PLWPF_MarkupCompile.lref
+C:\Users\tamar\Documents\שנה ב'\סמסטר א'\מיני פרויקט במערכות חלונות\סופי\dotNet5778_Project03_8527_1882\PLWPF\obj\Debug\ChildWindow.baml
+C:\Users\tamar\Documents\שנה ב'\סמסטר א'\מיני פרויקט במערכות חלונות\סופי\dotNet5778_Project03_8527_1882\PLWPF\obj\Debug\ContractWindow.baml
+C:\Users\tamar\Documents\שנה ב'\סמסטר א'\מיני פרויקט במערכות חלונות\סופי\dotNet5778_Project03_8527_1882\PLWPF\obj\Debug\MainWindow.baml
+C:\Users\tamar\Documents\שנה ב'\סמסטר א'\מיני פרויקט במערכות חלונות\סופי\dotNet5778_Project03_8527_1882\PLWPF\obj\Debug\MotherWindow.baml
+C:\Users\tamar\Documents\שנה ב'\סמסטר א'\מיני פרויקט במערכות חלונות\סופי\dotNet5778_Project03_8527_1882\PLWPF\obj\Debug\NannyWindow.baml
+C:\Users\tamar\Documents\שנה ב'\סמסטר א'\מיני פרויקט במערכות חלונות\סופי\dotNet5778_Project03_8527_1882\PLWPF\obj\Debug\QueriesWindow.baml
+C:\Users\tamar\Documents\שנה ב'\סמסטר א'\מיני פרויקט במערכות חלונות\סופי\dotNet5778_Project03_8527_1882\PLWPF\obj\Debug\Queries_windows\AllChildrenNoNanny.baml
+C:\Users\tamar\Documents\שנה ב'\סמסטר א'\מיני פרויקט במערכות חלונות\סופי\dotNet5778_Project03_8527_1882\PLWPF\obj\Debug\Queries_windows\BestNannies.baml
+C:\Users\tamar\Documents\שנה ב'\סמסטר א'\מיני פרויקט במערכות חלונות\סופי\dotNet5778_Project03_8527_1882\PLWPF\obj\Debug\Queries_windows\ChildUserControl.baml
+C:\Users\tamar\Documents\שנה ב'\סמסטר א'\מיני פרויקט במערכות חלונות\סופי\dotNet5778_Project03_8527_1882\PLWPF\obj\Debug\Queries_windows\contractsByDistanceUserControl.baml
+C:\Users\tamar\Documents\שנה ב'\סמסטר א'\מיני פרויקט במערכות חלונות\סופי\dotNet5778_Project03_8527_1882\PLWPF\obj\Debug\Queries_windows\contractUserControl.baml
+C:\Users\tamar\Documents\שנה ב'\סמסטר א'\מיני פרויקט במערכות חלונות\סופי\dotNet5778_Project03_8527_1882\PLWPF\obj\Debug\Queries_windows\nanniesByAgeChildrenUserControl.baml
+C:\Users\tamar\Documents\שנה ב'\סמסטר א'\מיני פרויקט במערכות חלונות\סופי\dotNet5778_Project03_8527_1882\PLWPF\obj\Debug\Queries_windows\NannyUserControl.baml
+C:\Users\tamar\Documents\שנה ב'\סמסטר א'\מיני פרויקט במערכות חלונות\סופי\dotNet5778_Project03_8527_1882\PLWPF\obj\Debug\Queries_windows\PlaceAutoCompleteUC.baml
+C:\Users\tamar\Documents\שנה ב'\סמסטר א'\מיני פרויקט במערכות חלונות\סופי\dotNet5778_Project03_8527_1882\PLWPF\obj\Debug\PLWPF.g.resources
+C:\Users\tamar\Documents\שנה ב'\סמסטר א'\מיני פרויקט במערכות חלונות\סופי\dotNet5778_Project03_8527_1882\PLWPF\obj\Debug\PLWPF.Properties.Resources.resources
+C:\Users\tamar\Documents\שנה ב'\סמסטר א'\מיני פרויקט במערכות חלונות\סופי\dotNet5778_Project03_8527_1882\PLWPF\obj\Debug\PLWPF.csproj.GenerateResource.Cache
+C:\Users\tamar\Documents\שנה ב'\סמסטר א'\מיני פרויקט במערכות חלונות\סופי\dotNet5778_Project03_8527_1882\PLWPF\obj\Debug\PLWPF.csproj.CoreCompileInputs.cache
+C:\Users\tamar\Documents\שנה ב'\סמסטר א'\מיני פרויקט במערכות חלונות\סופי\dotNet5778_Project03_8527_1882\PLWPF\obj\Debug\PLWPF.exe
+C:\Users\tamar\Documents\שנה ב'\סמסטר א'\מיני פרויקט במערכות חלונות\סופי\dotNet5778_Project03_8527_1882\PLWPF\obj\Debug\PLWPF.pdb
+C:\Users\tamar\Documents\שנה ב'\סמסטר א'\מיני פרויקט במערכות חלונות\סופי\dotNet5778_Project03_8527_1882\PLWPF\bin\Debug\GoogleMapsApi.xml
+C:\Users\tamar\Documents\שנה ב'\סמסטר א'\מיני פרויקט במערכות חלונות\סופי\dotNet5778_Project03_8527_1882\PLWPF\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק 3 פרויקט\dotNet5778_Project01_8527_1882\PLWPF\bin\Debug\PLWPF.exe.config
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק 3 פרויקט\dotNet5778_Project01_8527_1882\PLWPF\bin\Debug\PLWPF.exe
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק 3 פרויקט\dotNet5778_Project01_8527_1882\PLWPF\bin\Debug\PLWPF.pdb
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק 3 פרויקט\dotNet5778_Project01_8527_1882\PLWPF\bin\Debug\BE.dll
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק 3 פרויקט\dotNet5778_Project01_8527_1882\PLWPF\bin\Debug\BL.dll
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק 3 פרויקט\dotNet5778_Project01_8527_1882\PLWPF\bin\Debug\GoogleMapsApi.dll
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק 3 פרויקט\dotNet5778_Project01_8527_1882\PLWPF\bin\Debug\DAL.dll
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק 3 פרויקט\dotNet5778_Project01_8527_1882\PLWPF\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק 3 פרויקט\dotNet5778_Project01_8527_1882\PLWPF\bin\Debug\DS.dll
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק 3 פרויקט\dotNet5778_Project01_8527_1882\PLWPF\bin\Debug\BE.pdb
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק 3 פרויקט\dotNet5778_Project01_8527_1882\PLWPF\bin\Debug\BL.pdb
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק 3 פרויקט\dotNet5778_Project01_8527_1882\PLWPF\bin\Debug\GoogleMapsApi.xml
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק 3 פרויקט\dotNet5778_Project01_8527_1882\PLWPF\bin\Debug\DAL.pdb
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק 3 פרויקט\dotNet5778_Project01_8527_1882\PLWPF\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק 3 פרויקט\dotNet5778_Project01_8527_1882\PLWPF\bin\Debug\DS.pdb
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק 3 פרויקט\dotNet5778_Project01_8527_1882\PLWPF\obj\Debug\PLWPF.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק 3 פרויקט\dotNet5778_Project01_8527_1882\PLWPF\obj\Debug\ChildWindow.g.cs
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק 3 פרויקט\dotNet5778_Project01_8527_1882\PLWPF\obj\Debug\ContractWindow.g.cs
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק 3 פרויקט\dotNet5778_Project01_8527_1882\PLWPF\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק 3 פרויקט\dotNet5778_Project01_8527_1882\PLWPF\obj\Debug\MotherWindow.g.cs
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק 3 פרויקט\dotNet5778_Project01_8527_1882\PLWPF\obj\Debug\NannyWindow.g.cs
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק 3 פרויקט\dotNet5778_Project01_8527_1882\PLWPF\obj\Debug\QueriesWindow.g.cs
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק 3 פרויקט\dotNet5778_Project01_8527_1882\PLWPF\obj\Debug\Queries_windows\AllChildrenNoNanny.g.cs
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק 3 פרויקט\dotNet5778_Project01_8527_1882\PLWPF\obj\Debug\Queries_windows\BestNannies.g.cs
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק 3 פרויקט\dotNet5778_Project01_8527_1882\PLWPF\obj\Debug\Queries_windows\ChildUserControl.g.cs
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק 3 פרויקט\dotNet5778_Project01_8527_1882\PLWPF\obj\Debug\Queries_windows\contractsByDistanceUserControl.g.cs
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק 3 פרויקט\dotNet5778_Project01_8527_1882\PLWPF\obj\Debug\Queries_windows\contractUserControl.g.cs
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק 3 פרויקט\dotNet5778_Project01_8527_1882\PLWPF\obj\Debug\Queries_windows\nanniesByAgeChildrenUserControl.g.cs
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק 3 פרויקט\dotNet5778_Project01_8527_1882\PLWPF\obj\Debug\Queries_windows\NannyUserControl.g.cs
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק 3 פרויקט\dotNet5778_Project01_8527_1882\PLWPF\obj\Debug\Queries_windows\PlaceAutoCompleteUC.g.cs
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק 3 פרויקט\dotNet5778_Project01_8527_1882\PLWPF\obj\Debug\App.g.cs
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק 3 פרויקט\dotNet5778_Project01_8527_1882\PLWPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק 3 פרויקט\dotNet5778_Project01_8527_1882\PLWPF\obj\Debug\PLWPF_MarkupCompile.cache
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק 3 פרויקט\dotNet5778_Project01_8527_1882\PLWPF\obj\Debug\PLWPF_MarkupCompile.lref
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק 3 פרויקט\dotNet5778_Project01_8527_1882\PLWPF\obj\Debug\ChildWindow.baml
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק 3 פרויקט\dotNet5778_Project01_8527_1882\PLWPF\obj\Debug\ContractWindow.baml
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק 3 פרויקט\dotNet5778_Project01_8527_1882\PLWPF\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק 3 פרויקט\dotNet5778_Project01_8527_1882\PLWPF\obj\Debug\MotherWindow.baml
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק 3 פרויקט\dotNet5778_Project01_8527_1882\PLWPF\obj\Debug\NannyWindow.baml
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק 3 פרויקט\dotNet5778_Project01_8527_1882\PLWPF\obj\Debug\QueriesWindow.baml
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק 3 פרויקט\dotNet5778_Project01_8527_1882\PLWPF\obj\Debug\Queries_windows\AllChildrenNoNanny.baml
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק 3 פרויקט\dotNet5778_Project01_8527_1882\PLWPF\obj\Debug\Queries_windows\BestNannies.baml
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק 3 פרויקט\dotNet5778_Project01_8527_1882\PLWPF\obj\Debug\Queries_windows\ChildUserControl.baml
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק 3 פרויקט\dotNet5778_Project01_8527_1882\PLWPF\obj\Debug\Queries_windows\contractsByDistanceUserControl.baml
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק 3 פרויקט\dotNet5778_Project01_8527_1882\PLWPF\obj\Debug\Queries_windows\contractUserControl.baml
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק 3 פרויקט\dotNet5778_Project01_8527_1882\PLWPF\obj\Debug\Queries_windows\nanniesByAgeChildrenUserControl.baml
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק 3 פרויקט\dotNet5778_Project01_8527_1882\PLWPF\obj\Debug\Queries_windows\NannyUserControl.baml
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק 3 פרויקט\dotNet5778_Project01_8527_1882\PLWPF\obj\Debug\Queries_windows\PlaceAutoCompleteUC.baml
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק 3 פרויקט\dotNet5778_Project01_8527_1882\PLWPF\obj\Debug\PLWPF.g.resources
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק 3 פרויקט\dotNet5778_Project01_8527_1882\PLWPF\obj\Debug\PLWPF.Properties.Resources.resources
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק 3 פרויקט\dotNet5778_Project01_8527_1882\PLWPF\obj\Debug\PLWPF.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק 3 פרויקט\dotNet5778_Project01_8527_1882\PLWPF\obj\Debug\PLWPF.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק 3 פרויקט\dotNet5778_Project01_8527_1882\PLWPF\obj\Debug\PLWPF.exe
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק 3 פרויקט\dotNet5778_Project01_8527_1882\PLWPF\obj\Debug\PLWPF.pdb
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק 3 פרויקט\dotNet5778_Project03_8527_1882\PLWPF\bin\Debug\BE.dll
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק 3 פרויקט\dotNet5778_Project03_8527_1882\PLWPF\bin\Debug\BL.dll
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק 3 פרויקט\dotNet5778_Project03_8527_1882\PLWPF\bin\Debug\GoogleMapsApi.dll
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק 3 פרויקט\dotNet5778_Project03_8527_1882\PLWPF\bin\Debug\DAL.dll
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק 3 פרויקט\dotNet5778_Project03_8527_1882\PLWPF\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק 3 פרויקט\dotNet5778_Project03_8527_1882\PLWPF\bin\Debug\DS.dll
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק 3 פרויקט\dotNet5778_Project03_8527_1882\PLWPF\bin\Debug\BE.pdb
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק 3 פרויקט\dotNet5778_Project03_8527_1882\PLWPF\bin\Debug\BL.pdb
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק 3 פרויקט\dotNet5778_Project03_8527_1882\PLWPF\bin\Debug\GoogleMapsApi.xml
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק 3 פרויקט\dotNet5778_Project03_8527_1882\PLWPF\bin\Debug\DAL.pdb
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק 3 פרויקט\dotNet5778_Project03_8527_1882\PLWPF\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק 3 פרויקט\dotNet5778_Project03_8527_1882\PLWPF\bin\Debug\DS.pdb
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק 3 פרויקט\dotNet5778_Project03_8527_1882\PLWPF\obj\Debug\PLWPF.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק 3 פרויקט\dotNet5778_Project03_8527_1882\PLWPF\obj\Debug\ChildWindow.g.cs
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק 3 פרויקט\dotNet5778_Project03_8527_1882\PLWPF\obj\Debug\ContractWindow.g.cs
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק 3 פרויקט\dotNet5778_Project03_8527_1882\PLWPF\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק 3 פרויקט\dotNet5778_Project03_8527_1882\PLWPF\obj\Debug\MotherWindow.g.cs
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק 3 פרויקט\dotNet5778_Project03_8527_1882\PLWPF\obj\Debug\NannyWindow.g.cs
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק 3 פרויקט\dotNet5778_Project03_8527_1882\PLWPF\obj\Debug\QueriesWindow.g.cs
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק 3 פרויקט\dotNet5778_Project03_8527_1882\PLWPF\obj\Debug\Queries_windows\AllChildrenNoNanny.g.cs
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק 3 פרויקט\dotNet5778_Project03_8527_1882\PLWPF\obj\Debug\Queries_windows\BestNannies.g.cs
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק 3 פרויקט\dotNet5778_Project03_8527_1882\PLWPF\obj\Debug\Queries_windows\ChildUserControl.g.cs
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק 3 פרויקט\dotNet5778_Project03_8527_1882\PLWPF\obj\Debug\Queries_windows\contractsByDistanceUserControl.g.cs
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק 3 פרויקט\dotNet5778_Project03_8527_1882\PLWPF\obj\Debug\Queries_windows\contractUserControl.g.cs
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק 3 פרויקט\dotNet5778_Project03_8527_1882\PLWPF\obj\Debug\Queries_windows\nanniesByAgeChildrenUserControl.g.cs
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק 3 פרויקט\dotNet5778_Project03_8527_1882\PLWPF\obj\Debug\Queries_windows\NannyUserControl.g.cs
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק 3 פרויקט\dotNet5778_Project03_8527_1882\PLWPF\obj\Debug\Queries_windows\PlaceAutoCompleteUC.g.cs
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק 3 פרויקט\dotNet5778_Project03_8527_1882\PLWPF\obj\Debug\App.g.cs
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק 3 פרויקט\dotNet5778_Project03_8527_1882\PLWPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק 3 פרויקט\dotNet5778_Project03_8527_1882\PLWPF\obj\Debug\PLWPF_MarkupCompile.cache
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק 3 פרויקט\dotNet5778_Project03_8527_1882\PLWPF\obj\Debug\PLWPF_MarkupCompile.lref
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק 3 פרויקט\dotNet5778_Project03_8527_1882\PLWPF\obj\Debug\ChildWindow.baml
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק 3 פרויקט\dotNet5778_Project03_8527_1882\PLWPF\obj\Debug\ContractWindow.baml
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק 3 פרויקט\dotNet5778_Project03_8527_1882\PLWPF\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק 3 פרויקט\dotNet5778_Project03_8527_1882\PLWPF\obj\Debug\MotherWindow.baml
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק 3 פרויקט\dotNet5778_Project03_8527_1882\PLWPF\obj\Debug\NannyWindow.baml
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק 3 פרויקט\dotNet5778_Project03_8527_1882\PLWPF\obj\Debug\QueriesWindow.baml
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק 3 פרויקט\dotNet5778_Project03_8527_1882\PLWPF\obj\Debug\Queries_windows\AllChildrenNoNanny.baml
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק 3 פרויקט\dotNet5778_Project03_8527_1882\PLWPF\obj\Debug\Queries_windows\BestNannies.baml
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק 3 פרויקט\dotNet5778_Project03_8527_1882\PLWPF\obj\Debug\Queries_windows\ChildUserControl.baml
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק 3 פרויקט\dotNet5778_Project03_8527_1882\PLWPF\obj\Debug\Queries_windows\contractsByDistanceUserControl.baml
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק 3 פרויקט\dotNet5778_Project03_8527_1882\PLWPF\obj\Debug\Queries_windows\contractUserControl.baml
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק 3 פרויקט\dotNet5778_Project03_8527_1882\PLWPF\obj\Debug\Queries_windows\nanniesByAgeChildrenUserControl.baml
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק 3 פרויקט\dotNet5778_Project03_8527_1882\PLWPF\obj\Debug\Queries_windows\NannyUserControl.baml
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק 3 פרויקט\dotNet5778_Project03_8527_1882\PLWPF\obj\Debug\Queries_windows\PlaceAutoCompleteUC.baml
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק 3 פרויקט\dotNet5778_Project03_8527_1882\PLWPF\obj\Debug\PLWPF.g.resources
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק 3 פרויקט\dotNet5778_Project03_8527_1882\PLWPF\obj\Debug\PLWPF.Properties.Resources.resources
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק 3 פרויקט\dotNet5778_Project03_8527_1882\PLWPF\obj\Debug\PLWPF.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק 3 פרויקט\dotNet5778_Project03_8527_1882\PLWPF\obj\Debug\PLWPF.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק 3 פרויקט\dotNet5778_Project03_8527_1882\PLWPF\obj\Debug\PLWPF.exe
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק 3 פרויקט\dotNet5778_Project03_8527_1882\PLWPF\obj\Debug\PLWPF.pdb
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק 3 פרויקט\dotNet5778_Project03_8527_1882\PLWPF\bin\Debug\PLWPF.exe.config
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק 3 פרויקט\dotNet5778_Project03_8527_1882\PLWPF\bin\Debug\PLWPF.exe
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\חלק 3 פרויקט\dotNet5778_Project03_8527_1882\PLWPF\bin\Debug\PLWPF.pdb
+C:\Users\tashnerb\Downloads\dotNet5778_Project03_8527_1882\PLWPF\bin\Debug\PLWPF.exe.config
+C:\Users\tashnerb\Downloads\dotNet5778_Project03_8527_1882\PLWPF\bin\Debug\PLWPF.exe
+C:\Users\tashnerb\Downloads\dotNet5778_Project03_8527_1882\PLWPF\bin\Debug\PLWPF.pdb
+C:\Users\tashnerb\Downloads\dotNet5778_Project03_8527_1882\PLWPF\bin\Debug\BE.dll
+C:\Users\tashnerb\Downloads\dotNet5778_Project03_8527_1882\PLWPF\bin\Debug\BL.dll
+C:\Users\tashnerb\Downloads\dotNet5778_Project03_8527_1882\PLWPF\bin\Debug\GoogleMapsApi.dll
+C:\Users\tashnerb\Downloads\dotNet5778_Project03_8527_1882\PLWPF\bin\Debug\DAL.dll
+C:\Users\tashnerb\Downloads\dotNet5778_Project03_8527_1882\PLWPF\bin\Debug\Newtonsoft.Json.dll
+C:\Users\tashnerb\Downloads\dotNet5778_Project03_8527_1882\PLWPF\bin\Debug\DS.dll
+C:\Users\tashnerb\Downloads\dotNet5778_Project03_8527_1882\PLWPF\bin\Debug\BE.pdb
+C:\Users\tashnerb\Downloads\dotNet5778_Project03_8527_1882\PLWPF\bin\Debug\BL.pdb
+C:\Users\tashnerb\Downloads\dotNet5778_Project03_8527_1882\PLWPF\bin\Debug\GoogleMapsApi.xml
+C:\Users\tashnerb\Downloads\dotNet5778_Project03_8527_1882\PLWPF\bin\Debug\DAL.pdb
+C:\Users\tashnerb\Downloads\dotNet5778_Project03_8527_1882\PLWPF\bin\Debug\Newtonsoft.Json.xml
+C:\Users\tashnerb\Downloads\dotNet5778_Project03_8527_1882\PLWPF\bin\Debug\DS.pdb
+C:\Users\tashnerb\Downloads\dotNet5778_Project03_8527_1882\PLWPF\obj\Debug\PLWPF.csprojResolveAssemblyReference.cache
+C:\Users\tashnerb\Downloads\dotNet5778_Project03_8527_1882\PLWPF\obj\Debug\ChildWindow.g.cs
+C:\Users\tashnerb\Downloads\dotNet5778_Project03_8527_1882\PLWPF\obj\Debug\ContractWindow.g.cs
+C:\Users\tashnerb\Downloads\dotNet5778_Project03_8527_1882\PLWPF\obj\Debug\MainWindow.g.cs
+C:\Users\tashnerb\Downloads\dotNet5778_Project03_8527_1882\PLWPF\obj\Debug\MotherWindow.g.cs
+C:\Users\tashnerb\Downloads\dotNet5778_Project03_8527_1882\PLWPF\obj\Debug\NannyWindow.g.cs
+C:\Users\tashnerb\Downloads\dotNet5778_Project03_8527_1882\PLWPF\obj\Debug\QueriesWindow.g.cs
+C:\Users\tashnerb\Downloads\dotNet5778_Project03_8527_1882\PLWPF\obj\Debug\Queries_windows\AllChildrenNoNanny.g.cs
+C:\Users\tashnerb\Downloads\dotNet5778_Project03_8527_1882\PLWPF\obj\Debug\Queries_windows\BestNannies.g.cs
+C:\Users\tashnerb\Downloads\dotNet5778_Project03_8527_1882\PLWPF\obj\Debug\Queries_windows\ChildUserControl.g.cs
+C:\Users\tashnerb\Downloads\dotNet5778_Project03_8527_1882\PLWPF\obj\Debug\Queries_windows\contractsByDistanceUserControl.g.cs
+C:\Users\tashnerb\Downloads\dotNet5778_Project03_8527_1882\PLWPF\obj\Debug\Queries_windows\contractUserControl.g.cs
+C:\Users\tashnerb\Downloads\dotNet5778_Project03_8527_1882\PLWPF\obj\Debug\Queries_windows\nanniesByAgeChildrenUserControl.g.cs
+C:\Users\tashnerb\Downloads\dotNet5778_Project03_8527_1882\PLWPF\obj\Debug\Queries_windows\NannyUserControl.g.cs
+C:\Users\tashnerb\Downloads\dotNet5778_Project03_8527_1882\PLWPF\obj\Debug\Queries_windows\PlaceAutoCompleteUC.g.cs
+C:\Users\tashnerb\Downloads\dotNet5778_Project03_8527_1882\PLWPF\obj\Debug\App.g.cs
+C:\Users\tashnerb\Downloads\dotNet5778_Project03_8527_1882\PLWPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\tashnerb\Downloads\dotNet5778_Project03_8527_1882\PLWPF\obj\Debug\PLWPF_MarkupCompile.cache
+C:\Users\tashnerb\Downloads\dotNet5778_Project03_8527_1882\PLWPF\obj\Debug\PLWPF_MarkupCompile.lref
+C:\Users\tashnerb\Downloads\dotNet5778_Project03_8527_1882\PLWPF\obj\Debug\ChildWindow.baml
+C:\Users\tashnerb\Downloads\dotNet5778_Project03_8527_1882\PLWPF\obj\Debug\ContractWindow.baml
+C:\Users\tashnerb\Downloads\dotNet5778_Project03_8527_1882\PLWPF\obj\Debug\MainWindow.baml
+C:\Users\tashnerb\Downloads\dotNet5778_Project03_8527_1882\PLWPF\obj\Debug\MotherWindow.baml
+C:\Users\tashnerb\Downloads\dotNet5778_Project03_8527_1882\PLWPF\obj\Debug\NannyWindow.baml
+C:\Users\tashnerb\Downloads\dotNet5778_Project03_8527_1882\PLWPF\obj\Debug\QueriesWindow.baml
+C:\Users\tashnerb\Downloads\dotNet5778_Project03_8527_1882\PLWPF\obj\Debug\Queries_windows\AllChildrenNoNanny.baml
+C:\Users\tashnerb\Downloads\dotNet5778_Project03_8527_1882\PLWPF\obj\Debug\Queries_windows\BestNannies.baml
+C:\Users\tashnerb\Downloads\dotNet5778_Project03_8527_1882\PLWPF\obj\Debug\Queries_windows\ChildUserControl.baml
+C:\Users\tashnerb\Downloads\dotNet5778_Project03_8527_1882\PLWPF\obj\Debug\Queries_windows\contractsByDistanceUserControl.baml
+C:\Users\tashnerb\Downloads\dotNet5778_Project03_8527_1882\PLWPF\obj\Debug\Queries_windows\contractUserControl.baml
+C:\Users\tashnerb\Downloads\dotNet5778_Project03_8527_1882\PLWPF\obj\Debug\Queries_windows\nanniesByAgeChildrenUserControl.baml
+C:\Users\tashnerb\Downloads\dotNet5778_Project03_8527_1882\PLWPF\obj\Debug\Queries_windows\NannyUserControl.baml
+C:\Users\tashnerb\Downloads\dotNet5778_Project03_8527_1882\PLWPF\obj\Debug\Queries_windows\PlaceAutoCompleteUC.baml
+C:\Users\tashnerb\Downloads\dotNet5778_Project03_8527_1882\PLWPF\obj\Debug\PLWPF.g.resources
+C:\Users\tashnerb\Downloads\dotNet5778_Project03_8527_1882\PLWPF\obj\Debug\PLWPF.Properties.Resources.resources
+C:\Users\tashnerb\Downloads\dotNet5778_Project03_8527_1882\PLWPF\obj\Debug\PLWPF.csproj.GenerateResource.Cache
+C:\Users\tashnerb\Downloads\dotNet5778_Project03_8527_1882\PLWPF\obj\Debug\PLWPF.exe
+C:\Users\tashnerb\Downloads\dotNet5778_Project03_8527_1882\PLWPF\obj\Debug\PLWPF.pdb
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\סופי\dotNet5778_Project03_8527_1882\PLWPF\bin\Debug\PLWPF.exe.config
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\סופי\dotNet5778_Project03_8527_1882\PLWPF\bin\Debug\PLWPF.exe
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\סופי\dotNet5778_Project03_8527_1882\PLWPF\bin\Debug\PLWPF.pdb
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\סופי\dotNet5778_Project03_8527_1882\PLWPF\bin\Debug\BE.dll
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\סופי\dotNet5778_Project03_8527_1882\PLWPF\bin\Debug\BL.dll
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\סופי\dotNet5778_Project03_8527_1882\PLWPF\bin\Debug\GoogleMapsApi.dll
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\סופי\dotNet5778_Project03_8527_1882\PLWPF\bin\Debug\DAL.dll
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\סופי\dotNet5778_Project03_8527_1882\PLWPF\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\סופי\dotNet5778_Project03_8527_1882\PLWPF\bin\Debug\DS.dll
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\סופי\dotNet5778_Project03_8527_1882\PLWPF\bin\Debug\BE.pdb
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\סופי\dotNet5778_Project03_8527_1882\PLWPF\bin\Debug\BL.pdb
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\סופי\dotNet5778_Project03_8527_1882\PLWPF\bin\Debug\GoogleMapsApi.xml
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\סופי\dotNet5778_Project03_8527_1882\PLWPF\bin\Debug\DAL.pdb
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\סופי\dotNet5778_Project03_8527_1882\PLWPF\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\סופי\dotNet5778_Project03_8527_1882\PLWPF\bin\Debug\DS.pdb
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\סופי\dotNet5778_Project03_8527_1882\PLWPF\obj\Debug\PLWPF.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\סופי\dotNet5778_Project03_8527_1882\PLWPF\obj\Debug\ChildWindow.g.cs
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\סופי\dotNet5778_Project03_8527_1882\PLWPF\obj\Debug\ContractWindow.g.cs
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\סופי\dotNet5778_Project03_8527_1882\PLWPF\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\סופי\dotNet5778_Project03_8527_1882\PLWPF\obj\Debug\MotherWindow.g.cs
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\סופי\dotNet5778_Project03_8527_1882\PLWPF\obj\Debug\NannyWindow.g.cs
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\סופי\dotNet5778_Project03_8527_1882\PLWPF\obj\Debug\QueriesWindow.g.cs
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\סופי\dotNet5778_Project03_8527_1882\PLWPF\obj\Debug\Queries_windows\AllChildrenNoNanny.g.cs
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\סופי\dotNet5778_Project03_8527_1882\PLWPF\obj\Debug\Queries_windows\BestNannies.g.cs
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\סופי\dotNet5778_Project03_8527_1882\PLWPF\obj\Debug\Queries_windows\ChildUserControl.g.cs
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\סופי\dotNet5778_Project03_8527_1882\PLWPF\obj\Debug\Queries_windows\contractsByDistanceUserControl.g.cs
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\סופי\dotNet5778_Project03_8527_1882\PLWPF\obj\Debug\Queries_windows\contractUserControl.g.cs
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\סופי\dotNet5778_Project03_8527_1882\PLWPF\obj\Debug\Queries_windows\nanniesByAgeChildrenUserControl.g.cs
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\סופי\dotNet5778_Project03_8527_1882\PLWPF\obj\Debug\Queries_windows\NannyUserControl.g.cs
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\סופי\dotNet5778_Project03_8527_1882\PLWPF\obj\Debug\Queries_windows\PlaceAutoCompleteUC.g.cs
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\סופי\dotNet5778_Project03_8527_1882\PLWPF\obj\Debug\App.g.cs
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\סופי\dotNet5778_Project03_8527_1882\PLWPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\סופי\dotNet5778_Project03_8527_1882\PLWPF\obj\Debug\PLWPF_MarkupCompile.cache
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\סופי\dotNet5778_Project03_8527_1882\PLWPF\obj\Debug\PLWPF_MarkupCompile.lref
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\סופי\dotNet5778_Project03_8527_1882\PLWPF\obj\Debug\ChildWindow.baml
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\סופי\dotNet5778_Project03_8527_1882\PLWPF\obj\Debug\ContractWindow.baml
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\סופי\dotNet5778_Project03_8527_1882\PLWPF\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\סופי\dotNet5778_Project03_8527_1882\PLWPF\obj\Debug\MotherWindow.baml
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\סופי\dotNet5778_Project03_8527_1882\PLWPF\obj\Debug\NannyWindow.baml
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\סופי\dotNet5778_Project03_8527_1882\PLWPF\obj\Debug\QueriesWindow.baml
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\סופי\dotNet5778_Project03_8527_1882\PLWPF\obj\Debug\Queries_windows\AllChildrenNoNanny.baml
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\סופי\dotNet5778_Project03_8527_1882\PLWPF\obj\Debug\Queries_windows\BestNannies.baml
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\סופי\dotNet5778_Project03_8527_1882\PLWPF\obj\Debug\Queries_windows\ChildUserControl.baml
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\סופי\dotNet5778_Project03_8527_1882\PLWPF\obj\Debug\Queries_windows\contractsByDistanceUserControl.baml
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\סופי\dotNet5778_Project03_8527_1882\PLWPF\obj\Debug\Queries_windows\contractUserControl.baml
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\סופי\dotNet5778_Project03_8527_1882\PLWPF\obj\Debug\Queries_windows\nanniesByAgeChildrenUserControl.baml
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\סופי\dotNet5778_Project03_8527_1882\PLWPF\obj\Debug\Queries_windows\NannyUserControl.baml
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\סופי\dotNet5778_Project03_8527_1882\PLWPF\obj\Debug\Queries_windows\PlaceAutoCompleteUC.baml
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\סופי\dotNet5778_Project03_8527_1882\PLWPF\obj\Debug\PLWPF.g.resources
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\סופי\dotNet5778_Project03_8527_1882\PLWPF\obj\Debug\PLWPF.Properties.Resources.resources
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\סופי\dotNet5778_Project03_8527_1882\PLWPF\obj\Debug\PLWPF.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\סופי\dotNet5778_Project03_8527_1882\PLWPF\obj\Debug\PLWPF.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\סופי\dotNet5778_Project03_8527_1882\PLWPF\obj\Debug\PLWPF.exe
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\סופי\dotNet5778_Project03_8527_1882\PLWPF\obj\Debug\PLWPF.pdb

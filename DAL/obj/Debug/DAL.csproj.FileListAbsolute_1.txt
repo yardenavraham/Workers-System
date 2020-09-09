@@ -1,0 +1,19 @@
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\פרויקט\dotNet5778_Project01_8527_1882\dotNet5778_Project01_8527_1882\dotNet5778_Project01_8527_1882\DAL\bin\Debug\DAL.dll
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\פרויקט\dotNet5778_Project01_8527_1882\dotNet5778_Project01_8527_1882\dotNet5778_Project01_8527_1882\DAL\bin\Debug\DAL.pdb
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\פרויקט\dotNet5778_Project01_8527_1882\dotNet5778_Project01_8527_1882\dotNet5778_Project01_8527_1882\DAL\bin\Debug\BE.dll
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\פרויקט\dotNet5778_Project01_8527_1882\dotNet5778_Project01_8527_1882\dotNet5778_Project01_8527_1882\DAL\bin\Debug\DS.dll
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\פרויקט\dotNet5778_Project01_8527_1882\dotNet5778_Project01_8527_1882\dotNet5778_Project01_8527_1882\DAL\bin\Debug\BE.pdb
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\פרויקט\dotNet5778_Project01_8527_1882\dotNet5778_Project01_8527_1882\dotNet5778_Project01_8527_1882\DAL\bin\Debug\DS.pdb
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\פרויקט\dotNet5778_Project01_8527_1882\dotNet5778_Project01_8527_1882\dotNet5778_Project01_8527_1882\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\פרויקט\dotNet5778_Project01_8527_1882\dotNet5778_Project01_8527_1882\dotNet5778_Project01_8527_1882\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\פרויקט\dotNet5778_Project01_8527_1882\dotNet5778_Project01_8527_1882\dotNet5778_Project01_8527_1882\DAL\obj\Debug\DAL.dll
+C:\Users\User\Desktop\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\פרויקט\dotNet5778_Project01_8527_1882\dotNet5778_Project01_8527_1882\dotNet5778_Project01_8527_1882\DAL\obj\Debug\DAL.pdb
+Z:\מיני פרויקט\dotNet5778_Project01_8527_1882\DAL\bin\Debug\DAL.dll
+Z:\מיני פרויקט\dotNet5778_Project01_8527_1882\DAL\bin\Debug\DAL.pdb
+Z:\מיני פרויקט\dotNet5778_Project01_8527_1882\DAL\bin\Debug\BE.dll
+Z:\מיני פרויקט\dotNet5778_Project01_8527_1882\DAL\bin\Debug\DS.dll
+Z:\מיני פרויקט\dotNet5778_Project01_8527_1882\DAL\bin\Debug\BE.pdb
+Z:\מיני פרויקט\dotNet5778_Project01_8527_1882\DAL\bin\Debug\DS.pdb
+Z:\מיני פרויקט\dotNet5778_Project01_8527_1882\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+Z:\מיני פרויקט\dotNet5778_Project01_8527_1882\DAL\obj\Debug\DAL.dll
+Z:\מיני פרויקט\dotNet5778_Project01_8527_1882\DAL\obj\Debug\DAL.pdb
